@@ -1,7 +1,9 @@
+import TableView from "./components/TableView"
+
 const ListViewPage=()=>{
     return(
         <>
-            <p>THIS IS LIST VIEW OF DATA</p>
+         <TableView/>
         </>
     )
 }

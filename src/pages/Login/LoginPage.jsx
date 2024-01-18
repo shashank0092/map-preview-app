@@ -1,7 +1,21 @@
-const LoginPage=()=>{
-    return(
+import { useState } from "react"
+import LoginForm from "./components/LoginFom"
+
+
+
+const LoginPage = () => {
+
+    const [userDetails, setUserDetails] = useState({ username: "", password: "" })
+    return (
         <>
-            <h1>THIS IS LOGIN PAGE</h1>
+
+
+
+
+            <LoginForm userDetails={userDetails} setUserDetails={setUserDetails} />
+
+
+
         </>
     )
 }

@@ -1,0 +1,4002 @@
+[
+    {
+      "ride_uuid":"000021d7-b5eb-4970-b050-ca8ec00ef330",
+      "imei":"862869030480441",
+      "start_timestamp":1618938701,
+      "end_timestamp":1618939872,
+      "start_coordinates":"POINT(-0.66699317 53.57894839)",
+      "end_coordinates":"POINT(-0.6613413 53.5793029)"
+    },
+    {
+      "ride_uuid":"000026a7-4ce8-4e95-b123-e6edeaf15ea6",
+      "imei":"862869030750587",
+      "start_timestamp":1650034154,
+      "end_timestamp":1650035361,
+      "start_coordinates":"POINT(1.7122140231512 52.598478009957)",
+      "end_coordinates":"POINT(1.7283684667216 52.617427459967)"
+    },
+    {
+      "ride_uuid":"000030df-3ff3-41d9-be44-8780467b4b7a",
+      "imei":"862869030415595",
+      "start_timestamp":1641841244,
+      "end_timestamp":1641842176,
+      "start_coordinates":"POINT(-1.2343994664134 54.570495838908)",
+      "end_coordinates":"POINT(-1.2130381768198 54.54376928193)"
+    },
+    {
+      "ride_uuid":"000078ed-f954-4a17-9a90-b8f1930e1925",
+      "imei":"862211042935189",
+      "start_timestamp":1627221967,
+      "end_timestamp":1627222999,
+      "start_coordinates":"POINT(-0.23199233 51.47527094)",
+      "end_coordinates":"POINT(-0.2498183 51.4661724)"
+    },
+    {
+      "ride_uuid":"00007d5a-0707-4388-ad2b-ab2fc1b12ac8",
+      "imei":"867584034698667",
+      "start_timestamp":1661280878,
+      "end_timestamp":1661281327,
+      "start_coordinates":"POINT(-2.8924054373083 53.208833509175)",
+      "end_coordinates":"POINT(-2.8760990044759 53.211411915907)"
+    },
+    {
+      "ride_uuid":"000087ff-4294-483f-9e19-023742d1e28d",
+      "imei":"862869030441708",
+      "start_timestamp":1619451897,
+      "end_timestamp":1619452656,
+      "start_coordinates":"POINT(-2.8757652846632 53.199432869969)",
+      "end_coordinates":"POINT(-2.9094553644369 53.195426481186)"
+    },
+    {
+      "ride_uuid":"0000f431-3d7d-4536-b40f-35629c8cad6c",
+      "imei":"862869030482975",
+      "start_timestamp":1694180612,
+      "end_timestamp":1694181093,
+      "start_coordinates":"POINT(-2.8877486195737 53.189353297437)",
+      "end_coordinates":"POINT(-2.8655440270226 53.190226500855)"
+    },
+    {
+      "ride_uuid":"00014604-9d39-4fa5-80d6-d24664e4b213",
+      "imei":"862869030469386",
+      "start_timestamp":1643019938,
+      "end_timestamp":1643020288,
+      "start_coordinates":"POINT(1.7204825207607 52.605775818278)",
+      "end_coordinates":"POINT(1.729728973659 52.60293446237)"
+    },
+    {
+      "ride_uuid":"000163a0-0aa1-4409-be57-bda82f75ecd0",
+      "imei":"867584036169105",
+      "start_timestamp":1628853286,
+      "end_timestamp":1628854003,
+      "start_coordinates":"POINT(-2.148418159987 52.814116099335)",
+      "end_coordinates":"POINT(-2.1163675 52.8052536)"
+    },
+    {
+      "ride_uuid":"0001e3af-2ab2-4e75-bf61-fa35b82997fb",
+      "imei":"862869030750488",
+      "start_timestamp":1646864652,
+      "end_timestamp":1646865240,
+      "start_coordinates":"POINT(1.7211268966222 52.611842629987)",
+      "end_coordinates":"POINT(1.7364207 52.6021037)"
+    },
+    {
+      "ride_uuid":"00020c91-487d-4a37-8bc4-ceb106f64d58",
+      "imei":"862869030415405",
+      "start_timestamp":1652088429,
+      "end_timestamp":1652089827,
+      "start_coordinates":"POINT(-2.8878963086781 53.189325803009)",
+      "end_coordinates":"POINT(-2.8877655483832 53.189117698218)"
+    },
+    {
+      "ride_uuid":"00020e27-e8e5-4e84-892c-048963a0eb2f",
+      "imei":"862869030496827",
+      "start_timestamp":1656868318,
+      "end_timestamp":1656868697,
+      "start_coordinates":"POINT(-2.88474658 53.18837787)",
+      "end_coordinates":"POINT(-2.8847311 53.1883828)"
+    },
+    {
+      "ride_uuid":"00022893-c148-4a1c-a080-8a95ad39f6a7",
+      "imei":"867584036165087",
+      "start_timestamp":1606316560,
+      "end_timestamp":1606319983,
+      "start_coordinates":"POINT(-1.2220519531198 54.708951153053)",
+      "end_coordinates":"POINT(-1.2240816559654 54.679317260212)"
+    },
+    {
+      "ride_uuid":"00023a7b-c7e0-4409-bff1-545b14fa37c5",
+      "imei":"867584035505150",
+      "start_timestamp":1679232294,
+      "end_timestamp":1679235341,
+      "start_coordinates":"POINT(-2.9043026268509 53.172021699188)",
+      "end_coordinates":"POINT(-2.9042183887241 53.172056023081)"
+    },
+    {
+      "ride_uuid":"00024b17-6d3d-4197-a884-9daae85d9b0f",
+      "imei":"867584036174428",
+      "start_timestamp":1611743903,
+      "end_timestamp":1611746887,
+      "start_coordinates":"POINT(-2.8777729246536 53.192525473981)",
+      "end_coordinates":"POINT(-2.8782554801165 53.192658213587)"
+    },
+    {
+      "ride_uuid":"000253b4-7104-4985-811c-a76e2543277f",
+      "imei":"867584035144075",
+      "start_timestamp":1620036058,
+      "end_timestamp":1620038323,
+      "start_coordinates":"POINT(1.6931113644197 52.570293250008)",
+      "end_coordinates":"POINT(1.7260609310054 52.581544784678)"
+    },
+    {
+      "ride_uuid":"000257b1-3a8f-4846-9b0e-b3c0dce188a0",
+      "imei":"867584031318046",
+      "start_timestamp":1627943207,
+      "end_timestamp":1627946937,
+      "start_coordinates":"POINT(-1.1988197994215 54.659113937522)",
+      "end_coordinates":"POINT(-1.2104946907149 54.662587542581)"
+    },
+    {
+      "ride_uuid":"00025f2c-45d3-4164-98d2-8265141ebcb3",
+      "imei":"862869030441708",
+      "start_timestamp":1639497675,
+      "end_timestamp":1639500827,
+      "start_coordinates":"POINT(-2.8798638470498 53.196556745147)",
+      "end_coordinates":"POINT(-2.8913212233713 53.188532335382)"
+    },
+    {
+      "ride_uuid":"000286e1-1e3c-496b-b16c-4a59670ec2eb",
+      "imei":"862869030793934",
+      "start_timestamp":1665303447,
+      "end_timestamp":1665304291,
+      "start_coordinates":"POINT(-2.8781865 53.1925236)",
+      "end_coordinates":"POINT(-2.8881583 53.1937683)"
+    },
+    {
+      "ride_uuid":"000291f6-5005-4406-aa32-9ba71096ab56",
+      "imei":"867584035500433",
+      "start_timestamp":1643914837,
+      "end_timestamp":1643915534,
+      "start_coordinates":"POINT(-1.2102236832567 54.685461681207)",
+      "end_coordinates":"POINT(-1.2198949953179 54.68549812112)"
+    },
+    {
+      "ride_uuid":"0002cadf-1f6e-4005-bf38-f992be9e3f89",
+      "imei":"867584034130901",
+      "start_timestamp":1627365096,
+      "end_timestamp":1627365838,
+      "start_coordinates":"POINT(-1.2276719475891 54.575595734592)",
+      "end_coordinates":"POINT(-1.2327434 54.5496549)"
+    },
+    {
+      "ride_uuid":"0002fdca-78f5-4440-96f6-62eeba02cc50",
+      "imei":"867584035976120",
+      "start_timestamp":1630766862,
+      "end_timestamp":1630767384,
+      "start_coordinates":"POINT(-3.5803158787785 54.528210764774)",
+      "end_coordinates":"POINT(-3.5967933 54.5344327)"
+    },
+    {
+      "ride_uuid":"00030b10-2ad2-4f3e-bcaf-e36c5ba4706f",
+      "imei":"867584036169394",
+      "start_timestamp":1619257594,
+      "end_timestamp":1619257788,
+      "start_coordinates":"POINT(-0.77342949839008 52.034505397532)",
+      "end_coordinates":"POINT(-0.7646545280444 52.03875721799)"
+    },
+    {
+      "ride_uuid":"0003371e-c2a4-469e-bcd3-1b03ccf720a2",
+      "imei":"867584036178742",
+      "start_timestamp":1635622108,
+      "end_timestamp":1635622963,
+      "start_coordinates":"POINT(-2.878205222714 53.192632713881)",
+      "end_coordinates":"POINT(-2.8960750845323 53.19891841808)"
+    },
+    {
+      "ride_uuid":"000374e8-774b-46a4-b2b0-409402f4c6e6",
+      "imei":"862869030434422",
+      "start_timestamp":1645653639,
+      "end_timestamp":1645654003,
+      "start_coordinates":"POINT(1.7375068187172 52.608808167743)",
+      "end_coordinates":"POINT(1.7339832410424 52.620005842308)"
+    },
+    {
+      "ride_uuid":"0003a3a2-ade2-470f-859c-9b25225d63b9",
+      "imei":"867584035142723",
+      "start_timestamp":1654968727,
+      "end_timestamp":1654970268,
+      "start_coordinates":"POINT(1.7364307375896 52.602220069324)",
+      "end_coordinates":"POINT(1.7363749048613 52.602228423243)"
+    },
+    {
+      "ride_uuid":"0003acc5-6136-481b-84df-fea215394ccf",
+      "imei":"867584035976534",
+      "start_timestamp":1626515854,
+      "end_timestamp":1626516396,
+      "start_coordinates":"POINT(-2.1446835603297 52.8111394742)",
+      "end_coordinates":"POINT(-2.1186713158217 52.808915901935)"
+    },
+    {
+      "ride_uuid":"0003b3bb-7298-4b84-8380-801612f55bcf",
+      "imei":"862869030454156",
+      "start_timestamp":1667582977,
+      "end_timestamp":1667583620,
+      "start_coordinates":"POINT(1.71171281 52.59827593)",
+      "end_coordinates":"POINT(1.7213769 52.6118602)"
+    },
+    {
+      "ride_uuid":"00040b43-0fc6-4f4e-865d-df27a9d7e940",
+      "imei":"867584036162621",
+      "start_timestamp":1705090629,
+      "end_timestamp":1705091219,
+      "start_coordinates":"POINT(-2.8554986 53.2028818)",
+      "end_coordinates":"POINT(-2.8838888 53.2022679)"
+    },
+    {
+      "ride_uuid":"00041dae-c2e5-4d6a-aa62-806bbb77af55",
+      "imei":"867584036154552",
+      "start_timestamp":1606674363,
+      "end_timestamp":1606676767,
+      "start_coordinates":"POINT(-1.2436243616201 54.575400249787)",
+      "end_coordinates":"POINT(-1.2436548 54.5754042)"
+    },
+    {
+      "ride_uuid":"00041eb5-6906-47fd-b10d-97ff13705b90",
+      "imei":"862869030463652",
+      "start_timestamp":1661192339,
+      "end_timestamp":1661193431,
+      "start_coordinates":"POINT(-1.232745961191 54.570358098456)",
+      "end_coordinates":"POINT(-1.2293053458251 54.574821853213)"
+    },
+    {
+      "ride_uuid":"00042262-4e9f-46d8-9102-60154b979267",
+      "imei":"867584035501928",
+      "start_timestamp":1692686516,
+      "end_timestamp":1692686873,
+      "start_coordinates":"POINT(-2.8841008 53.202223)",
+      "end_coordinates":"POINT(-2.8811884 53.213924)"
+    },
+    {
+      "ride_uuid":"000423dd-c050-4872-a787-766ad03856f2",
+      "imei":"867584036155427",
+      "start_timestamp":1647666632,
+      "end_timestamp":1647666987,
+      "start_coordinates":"POINT(1.7280957968166 52.619854902946)",
+      "end_coordinates":"POINT(1.7241272716807 52.613680682851)"
+    },
+    {
+      "ride_uuid":"000475c1-9010-494f-9e2b-091fd24d7b83",
+      "imei":"862869030423490",
+      "start_timestamp":1657813612,
+      "end_timestamp":1657814585,
+      "start_coordinates":"POINT(-1.216252841746 54.543197825297)",
+      "end_coordinates":"POINT(-1.2162780774366 54.543244671931)"
+    },
+    {
+      "ride_uuid":"0004b231-9a17-4a35-ac2e-71bd54077698",
+      "imei":"862869030782044",
+      "start_timestamp":1652464820,
+      "end_timestamp":1652465825,
+      "start_coordinates":"POINT(1.7332476 52.5981999)",
+      "end_coordinates":"POINT(1.72865612 52.58109142)"
+    },
+    {
+      "ride_uuid":"0004eacc-9614-40cc-9ded-902657f62bc2",
+      "imei":"867584035720008",
+      "start_timestamp":1626710873,
+      "end_timestamp":1626712620,
+      "start_coordinates":"POINT(-2.8758157928563 53.199448706229)",
+      "end_coordinates":"POINT(-2.8758851414929 53.199338271575)"
+    },
+    {
+      "ride_uuid":"0004ee00-94f7-4df3-ab1a-c75f78c8abe7",
+      "imei":"867584035143309",
+      "start_timestamp":1649847652,
+      "end_timestamp":1649848259,
+      "start_coordinates":"POINT(1.7364417786889 52.602222464872)",
+      "end_coordinates":"POINT(1.7283684493369 52.617400539316)"
+    },
+    {
+      "ride_uuid":"00053228-5a1e-47b6-bdec-f3459f4c9c93",
+      "imei":"867584035144422",
+      "start_timestamp":1623165866,
+      "end_timestamp":1623166471,
+      "start_coordinates":"POINT(-2.89780511 53.19597274)",
+      "end_coordinates":"POINT(-2.926083 53.2084038)"
+    },
+    {
+      "ride_uuid":"00056c80-73b9-428f-9d6a-a43e3274d2a7",
+      "imei":"862869031497717",
+      "start_timestamp":1696697221,
+      "end_timestamp":1696697736,
+      "start_coordinates":"POINT(1.7308403 52.5695602)",
+      "end_coordinates":"POINT(1.7224481 52.5787405)"
+    },
+    {
+      "ride_uuid":"000584ea-ae1b-499d-a318-86c774699cbf",
+      "imei":"867584036178056",
+      "start_timestamp":1637344403,
+      "end_timestamp":1637346885,
+      "start_coordinates":"POINT(-1.2339189928036 54.679964301227)",
+      "end_coordinates":"POINT(-1.2103196152009 54.68538096356)"
+    },
+    {
+      "ride_uuid":"00058feb-6004-4616-a2c6-41a206a5bf8a",
+      "imei":"862869030789874",
+      "start_timestamp":1633260443,
+      "end_timestamp":1633262033,
+      "start_coordinates":"POINT(1.7314083449245 52.568924850637)",
+      "end_coordinates":"POINT(1.7309778752607 52.56038657839)"
+    },
+    {
+      "ride_uuid":"0005b918-06aa-487c-94d3-43ec19921684",
+      "imei":"862869030782820",
+      "start_timestamp":1639117294,
+      "end_timestamp":1639118114,
+      "start_coordinates":"POINT(-2.8931358361686 53.186897096095)",
+      "end_coordinates":"POINT(-2.930213439895 53.195432846288)"
+    },
+    {
+      "ride_uuid":"0005d75f-1e2c-4b00-a075-f0fdeb63d346",
+      "imei":"861123050551553",
+      "start_timestamp":1662204708,
+      "end_timestamp":1662205558,
+      "start_coordinates":"POINT(-0.803220165637 52.007546553699)",
+      "end_coordinates":"POINT(-0.77333408407939 52.034550039146)"
+    },
+    {
+      "ride_uuid":"0005e1fb-30fb-46ff-a65f-f1d6ea7a7d1a",
+      "imei":"862869030469386",
+      "start_timestamp":1649523141,
+      "end_timestamp":1649523923,
+      "start_coordinates":"POINT(1.7249854657201 52.614299768288)",
+      "end_coordinates":"POINT(1.7333412338923 52.602607958208)"
+    },
+    {
+      "ride_uuid":"000617b6-5b9d-4020-85eb-7eb77a2bd078",
+      "imei":"867584035973630",
+      "start_timestamp":1605456396,
+      "end_timestamp":1605458741,
+      "start_coordinates":"POINT(-2.1160421542179 52.80758301999)",
+      "end_coordinates":"POINT(-2.1165760279968 52.807474938813)"
+    },
+    {
+      "ride_uuid":"000620f2-9c64-4676-8ab7-19a2363dd4e2",
+      "imei":"867584035494454",
+      "start_timestamp":1644711251,
+      "end_timestamp":1644711535,
+      "start_coordinates":"POINT(-0.77356300326128 52.034487354791)",
+      "end_coordinates":"POINT(-0.76288238957531 52.036706328158)"
+    },
+    {
+      "ride_uuid":"000634c5-3e43-497a-9e46-d0b81ca8888b",
+      "imei":"867584034641741",
+      "start_timestamp":1698002281,
+      "end_timestamp":1698003866,
+      "start_coordinates":"POINT(-2.8924649753982 53.192195921609)",
+      "end_coordinates":"POINT(-2.926169339297 53.208422476073)"
+    },
+    {
+      "ride_uuid":"00063865-acbc-46ef-b03b-fa0872521888",
+      "imei":"867584036155146",
+      "start_timestamp":1642790381,
+      "end_timestamp":1642791231,
+      "start_coordinates":"POINT(-2.9164934594759 53.173191503806)",
+      "end_coordinates":"POINT(-2.8929898 53.1949579)"
+    },
+    {
+      "ride_uuid":"00068c36-6ff5-4fa9-a919-7c4d3fdda19e",
+      "imei":"862869030717719",
+      "start_timestamp":1659596558,
+      "end_timestamp":1659597233,
+      "start_coordinates":"POINT(-2.8553095646229 53.196416180631)",
+      "end_coordinates":"POINT(-2.8877352472018 53.189195228907)"
+    },
+    {
+      "ride_uuid":"0006cae1-7ec9-4060-a691-50483710a4f6",
+      "imei":"867584035143895",
+      "start_timestamp":1647025988,
+      "end_timestamp":1647026792,
+      "start_coordinates":"POINT(1.7208621371553 52.611786187675)",
+      "end_coordinates":"POINT(1.7256142571585 52.590223029305)"
+    },
+    {
+      "ride_uuid":"0006cf2b-465d-4b3f-9c50-8923db2bbf2c",
+      "imei":"867584035145783",
+      "start_timestamp":1648990307,
+      "end_timestamp":1648990712,
+      "start_coordinates":"POINT(1.7211280516949 52.611832951112)",
+      "end_coordinates":"POINT(1.7296448 52.6029318)"
+    },
+    {
+      "ride_uuid":"0006efc2-6781-4a76-83b0-4cb6afcdfc55",
+      "imei":"862869030421049",
+      "start_timestamp":1657360054,
+      "end_timestamp":1657360306,
+      "start_coordinates":"POINT(-2.90018042 53.19058484)",
+      "end_coordinates":"POINT(-2.89215669 53.1918743)"
+    },
+    {
+      "ride_uuid":"000714a9-1ff1-48ce-860d-8a9bdfe127d5",
+      "imei":"862869030788140",
+      "start_timestamp":1630952273,
+      "end_timestamp":1630953178,
+      "start_coordinates":"POINT(-1.1845957115682 54.695854859604)",
+      "end_coordinates":"POINT(-1.2220924880358 54.70067820007)"
+    },
+    {
+      "ride_uuid":"0007267b-f81a-4a59-9138-290e3d65ea02",
+      "imei":"862869030494160",
+      "start_timestamp":1669578411,
+      "end_timestamp":1669579295,
+      "start_coordinates":"POINT(-2.8917794598457 53.195909271174)",
+      "end_coordinates":"POINT(-2.9043285321928 53.171942759973)"
+    },
+    {
+      "ride_uuid":"00072e47-7f97-472f-9620-abb4dbc18aca",
+      "imei":"862869030794239",
+      "start_timestamp":1637089691,
+      "end_timestamp":1637094785,
+      "start_coordinates":"POINT(-1.217436923582 54.549959632639)",
+      "end_coordinates":"POINT(-1.2175059952803 54.550035668141)"
+    },
+    {
+      "ride_uuid":"00073cf8-8d98-4535-a4d4-c53c52dfd6ce",
+      "imei":"867584035144620",
+      "start_timestamp":1615755203,
+      "end_timestamp":1615756275,
+      "start_coordinates":"POINT(-1.2440543433614 54.575117572536)",
+      "end_coordinates":"POINT(-1.2436575752941 54.575337799284)"
+    },
+    {
+      "ride_uuid":"00074b02-34c1-4b07-8161-16eada8fef18",
+      "imei":"862869031334712",
+      "start_timestamp":1692634243,
+      "end_timestamp":1692634545,
+      "start_coordinates":"POINT(1.7256068810837 52.590209450622)",
+      "end_coordinates":"POINT(1.7287140737578 52.58112590228)"
+    },
+    {
+      "ride_uuid":"00075427-7a42-4152-af52-bc5904678374",
+      "imei":"867584036179799",
+      "start_timestamp":1622653622,
+      "end_timestamp":1622658358,
+      "start_coordinates":"POINT(-0.65401483948251 53.590605405054)",
+      "end_coordinates":"POINT(-0.663242 53.5981071)"
+    },
+    {
+      "ride_uuid":"000772c4-8343-4e13-a860-38ac5587dee8",
+      "imei":"862869031334233",
+      "start_timestamp":1697925205,
+      "end_timestamp":1697926056,
+      "start_coordinates":"POINT(1.7336976011326 52.598466056586)",
+      "end_coordinates":"POINT(1.7227200089598 52.590534774145)"
+    },
+    {
+      "ride_uuid":"00079234-aa53-4d77-a51d-8b0ac391604e",
+      "imei":"862869031355493",
+      "start_timestamp":1695439746,
+      "end_timestamp":1695440685,
+      "start_coordinates":"POINT(1.7178774644483 52.579023420375)",
+      "end_coordinates":"POINT(1.7235349685132 52.606847517287)"
+    },
+    {
+      "ride_uuid":"00079525-15ad-4026-a866-d084e3e7504c",
+      "imei":"867584036178742",
+      "start_timestamp":1657869524,
+      "end_timestamp":1657869985,
+      "start_coordinates":"POINT(-2.8940216666667 53.18683)",
+      "end_coordinates":"POINT(-2.8802766666667 53.196436666667)"
+    },
+    {
+      "ride_uuid":"0007a8f6-f4a4-417d-acf7-c9f7a7c15a8c",
+      "imei":"867584035971121",
+      "start_timestamp":1665988537,
+      "end_timestamp":1665989060,
+      "start_coordinates":"POINT(-2.8596999 53.1959761)",
+      "end_coordinates":"POINT(-2.8877022 53.1891046)"
+    },
+    {
+      "ride_uuid":"0007ba86-8e76-4dbe-8a0e-f4695d5ecad1",
+      "imei":"862869030415835",
+      "start_timestamp":1665512016,
+      "end_timestamp":1665512319,
+      "start_coordinates":"POINT(1.7203487299306 52.570974644377)",
+      "end_coordinates":"POINT(1.7314668617548 52.573962514909)"
+    },
+    {
+      "ride_uuid":"0007cd59-1799-4ca6-bf3c-689f307915d6",
+      "imei":"862869030745025",
+      "start_timestamp":1663840347,
+      "end_timestamp":1663841019,
+      "start_coordinates":"POINT(-2.8758646 53.1993)",
+      "end_coordinates":"POINT(-2.891177 53.1885369)"
+    },
+    {
+      "ride_uuid":"0007d835-d902-402b-bc16-ec7ec5bf16aa",
+      "imei":"867584035977391",
+      "start_timestamp":1626550858,
+      "end_timestamp":1626552033,
+      "start_coordinates":"POINT(-3.5869556210174 54.552061104158)",
+      "end_coordinates":"POINT(-3.5555646865248 54.519294184491)"
+    },
+    {
+      "ride_uuid":"0007e545-77e2-4771-86b0-9f7c4ee78a1d",
+      "imei":"867584036178056",
+      "start_timestamp":1620936666,
+      "end_timestamp":1620939262,
+      "start_coordinates":"POINT(-1.2237684694471 54.679237556495)",
+      "end_coordinates":"POINT(-1.2240883171358 54.679299319616)"
+    },
+    {
+      "ride_uuid":"0007ef3f-0333-4198-a0c0-6e79d73a4882",
+      "imei":"861123050553153",
+      "start_timestamp":1657581538,
+      "end_timestamp":1657581799,
+      "start_coordinates":"POINT(-0.77756774074858 52.068561035167)",
+      "end_coordinates":"POINT(-0.76892245427793 52.066381168358)"
+    },
+    {
+      "ride_uuid":"000807c1-4025-4046-9814-25e822fa8959",
+      "imei":"861123050546900",
+      "start_timestamp":1621623745,
+      "end_timestamp":1621624636,
+      "start_coordinates":"POINT(-0.65434581130365 53.581766680767)",
+      "end_coordinates":"POINT(-0.66314873405969 53.598138668099)"
+    },
+    {
+      "ride_uuid":"00081d1c-26fd-4fe6-ba5f-cb316e76a025",
+      "imei":"862869030494871",
+      "start_timestamp":1650725326,
+      "end_timestamp":1650726510,
+      "start_coordinates":"POINT(-2.89242833 53.19219516)",
+      "end_coordinates":"POINT(-2.8783783 53.1926959)"
+    },
+    {
+      "ride_uuid":"000833c4-fe64-4e61-83e7-89925b3d1002",
+      "imei":"867584035181713",
+      "start_timestamp":1608989829,
+      "end_timestamp":1608991122,
+      "start_coordinates":"POINT(-1.2441403712925 54.657826538144)",
+      "end_coordinates":"POINT(-1.244165 54.6578188)"
+    },
+    {
+      "ride_uuid":"00086779-a361-4b65-8904-d472f2e11b68",
+      "imei":"867584036159015",
+      "start_timestamp":1692432944,
+      "end_timestamp":1692433817,
+      "start_coordinates":"POINT(-2.8928166363842 53.194946181525)",
+      "end_coordinates":"POINT(-2.8808379789241 53.213961321833)"
+    },
+    {
+      "ride_uuid":"0008967f-8430-48d2-b05e-e182d133c998",
+      "imei":"862869030472646",
+      "start_timestamp":1662472521,
+      "end_timestamp":1662472960,
+      "start_coordinates":"POINT(1.7096927380351 52.575089986238)",
+      "end_coordinates":"POINT(1.7097438260982 52.575198974827)"
+    },
+    {
+      "ride_uuid":"0008afd8-1466-4c50-8c6e-838df0331087",
+      "imei":"867584035143531",
+      "start_timestamp":1623434975,
+      "end_timestamp":1623435095,
+      "start_coordinates":"POINT(-0.62441892067793 53.567345905021)",
+      "end_coordinates":"POINT(-0.62412686266766 53.567698139722)"
+    },
+    {
+      "ride_uuid":"0008cfe8-022f-4b18-8dcc-d852f3671d82",
+      "imei":"862869030415827",
+      "start_timestamp":1661681239,
+      "end_timestamp":1661682083,
+      "start_coordinates":"POINT(1.7206609 52.5631216)",
+      "end_coordinates":"POINT(1.7005573 52.5867032)"
+    },
+    {
+      "ride_uuid":"0008f1c8-888d-4f44-b30c-3e6f6cbad7c0",
+      "imei":"862869030794593",
+      "start_timestamp":1651649631,
+      "end_timestamp":1651650916,
+      "start_coordinates":"POINT(1.7330135984393 52.598119919908)",
+      "end_coordinates":"POINT(1.7262087405469 52.603569466394)"
+    },
+    {
+      "ride_uuid":"0009140a-fde5-4e6c-8b60-b66ed6876bda",
+      "imei":"862869031334944",
+      "start_timestamp":1701501532,
+      "end_timestamp":1701501718,
+      "start_coordinates":"POINT(1.7250035516934 52.57179558282)",
+      "end_coordinates":"POINT(1.7274322247748 52.577828424686)"
+    },
+    {
+      "ride_uuid":"0009584a-e0fd-4cae-b2ab-7cbcfdf38cb3",
+      "imei":"867584035973630",
+      "start_timestamp":1663411083,
+      "end_timestamp":1663412004,
+      "start_coordinates":"POINT(-2.925932109929 53.208195633041)",
+      "end_coordinates":"POINT(-2.8926175395703 53.192310281605)"
+    },
+    {
+      "ride_uuid":"00097c0d-15f6-4860-89e2-8c612a33e4a7",
+      "imei":"862869030786334",
+      "start_timestamp":1657554370,
+      "end_timestamp":1657554920,
+      "start_coordinates":"POINT(1.7005561 52.5866399)",
+      "end_coordinates":"POINT(1.7261027 52.5814719)"
+    },
+    {
+      "ride_uuid":"00097f9f-41b4-4166-a6a3-94427cc83102",
+      "imei":"8628690307",
+      "start_timestamp":1664611146,
+      "end_timestamp":1664611514,
+      "start_coordinates":"POINT(1.7339330342446 52.619920031283)",
+      "end_coordinates":"POINT(1.7277202204733 52.608185348785)"
+    },
+    {
+      "ride_uuid":"0009c5d7-1607-4705-9aea-f71bfcccf309",
+      "imei":"867584036154347",
+      "start_timestamp":1678884140,
+      "end_timestamp":1678888576,
+      "start_coordinates":"POINT(-2.9165243 53.17321)",
+      "end_coordinates":"POINT(-2.9080499 53.1790097)"
+    },
+    {
+      "ride_uuid":"000a2621-01b7-480c-9456-ff27bc67b281",
+      "imei":"862869030716083",
+      "start_timestamp":1636100278,
+      "end_timestamp":1636101046,
+      "start_coordinates":"POINT(-1.2538518799249 54.565150963628)",
+      "end_coordinates":"POINT(-1.2358312632036 54.579498074397)"
+    },
+    {
+      "ride_uuid":"000a48c6-a482-4229-ad83-8817d79b64c1",
+      "imei":"862869030734243",
+      "start_timestamp":1657657245,
+      "end_timestamp":1657658422,
+      "start_coordinates":"POINT(1.7285521868545 52.580638272514)",
+      "end_coordinates":"POINT(1.7250268102055 52.571929383571)"
+    },
+    {
+      "ride_uuid":"000a8d2b-572d-4c04-9214-24a634839f0b",
+      "imei":"867584031415941",
+      "start_timestamp":1652683902,
+      "end_timestamp":1652684516,
+      "start_coordinates":"POINT(-2.91733045 53.17991254)",
+      "end_coordinates":"POINT(-2.8913545 53.1885029)"
+    },
+    {
+      "ride_uuid":"000adc44-8f5f-4ff1-b9d2-451b33811c38",
+      "imei":"861123050551520",
+      "start_timestamp":1656859477,
+      "end_timestamp":1656859981,
+      "start_coordinates":"POINT(-1.242774193555 54.560240413826)",
+      "end_coordinates":"POINT(-1.2634629812827 54.552314523746)"
+    },
+    {
+      "ride_uuid":"000aedef-8127-4a57-88d7-34e9884210bd",
+      "imei":"867584035752992",
+      "start_timestamp":1628715641,
+      "end_timestamp":1628718821,
+      "start_coordinates":"POINT(-2.1048095827885 52.792673717279)",
+      "end_coordinates":"POINT(-2.1048108839089 52.792388288775)"
+    },
+    {
+      "ride_uuid":"000af387-2401-4bb9-a81a-3a4b90d63fee",
+      "imei":"867584035736490",
+      "start_timestamp":1703750047,
+      "end_timestamp":1703750751,
+      "start_coordinates":"POINT(-2.8759539 53.1992962)",
+      "end_coordinates":"POINT(-2.9093424 53.1954233)"
+    },
+    {
+      "ride_uuid":"000b2470-77a1-455f-a64c-4b7c48ebe886",
+      "imei":"862869031352581",
+      "start_timestamp":1683744664,
+      "end_timestamp":1683745652,
+      "start_coordinates":"POINT(1.7005019076184 52.586599993568)",
+      "end_coordinates":"POINT(1.719874287984 52.598996046209)"
+    },
+    {
+      "ride_uuid":"000b6d7b-42b6-4ae8-86a6-073b6efb299f",
+      "imei":"862869031346245",
+      "start_timestamp":1688159172,
+      "end_timestamp":1688159651,
+      "start_coordinates":"POINT(1.7286614617264 52.580945294071)",
+      "end_coordinates":"POINT(1.7198507418937 52.599011219454)"
+    },
+    {
+      "ride_uuid":"000bc473-8374-477e-b8ce-e455c75354f6",
+      "imei":"867584034640003",
+      "start_timestamp":1677850854,
+      "end_timestamp":1677852534,
+      "start_coordinates":"POINT(-2.8553499242157 53.202994187537)",
+      "end_coordinates":"POINT(-2.871068754433 53.207508404106)"
+    },
+    {
+      "ride_uuid":"000bc936-b9ff-44b8-9f2c-6f76c9cf69e7",
+      "imei":"867584036165930",
+      "start_timestamp":1628775018,
+      "end_timestamp":1628775215,
+      "start_coordinates":"POINT(1.7364785155285 52.602195585211)",
+      "end_coordinates":"POINT(1.7296443760783 52.60650055097)"
+    },
+    {
+      "ride_uuid":"000c103e-cdc8-49f1-8695-fe520dc16798",
+      "imei":"862869030735216",
+      "start_timestamp":1659791294,
+      "end_timestamp":1659791673,
+      "start_coordinates":"POINT(-2.8875097364366 53.184131796936)",
+      "end_coordinates":"POINT(-2.9080231987079 53.178960206019)"
+    },
+    {
+      "ride_uuid":"000c30cb-3397-4409-a4f7-25b4ec18d2c6",
+      "imei":"862869030782044",
+      "start_timestamp":1632940828,
+      "end_timestamp":1632941442,
+      "start_coordinates":"POINT(1.7144338566653 52.574128767574)",
+      "end_coordinates":"POINT(1.7287345030504 52.581164638275)"
+    },
+    {
+      "ride_uuid":"000c481e-9efd-41e5-8ab3-81270cb4ce5e",
+      "imei":"867584034646120",
+      "start_timestamp":1635681825,
+      "end_timestamp":1635683425,
+      "start_coordinates":"POINT(-2.8758601017043 53.199351330192)",
+      "end_coordinates":"POINT(-2.8872091856713 53.179889824838)"
+    },
+    {
+      "ride_uuid":"000c6476-e63e-4f09-9756-877b2c1d7d83",
+      "imei":"862869030786110",
+      "start_timestamp":1677355200,
+      "end_timestamp":1677355870,
+      "start_coordinates":"POINT(1.7252102851268 52.571814993014)",
+      "end_coordinates":"POINT(1.7131478486305 52.557766407171)"
+    },
+    {
+      "ride_uuid":"000cd2b6-dcfc-4d52-82d3-a2da619d93c7",
+      "imei":"862869030745025",
+      "start_timestamp":1642333512,
+      "end_timestamp":1642334410,
+      "start_coordinates":"POINT(-2.8549431921392 53.196602955121)",
+      "end_coordinates":"POINT(-2.8707474990529 53.207390092619)"
+    },
+    {
+      "ride_uuid":"000cface-e128-4124-a4ca-4e4ec8b590a7",
+      "imei":"867584035727192",
+      "start_timestamp":1656861895,
+      "end_timestamp":1656862453,
+      "start_coordinates":"POINT(-0.66997348330977 53.585980385592)",
+      "end_coordinates":"POINT(-0.65405665800409 53.590610701826)"
+    },
+    {
+      "ride_uuid":"000d46b1-1891-450e-b51f-85ea0723ccc3",
+      "imei":"862869030422427",
+      "start_timestamp":1663963434,
+      "end_timestamp":1663964337,
+      "start_coordinates":"POINT(1.7292911247484 52.602704560502)",
+      "end_coordinates":"POINT(1.729685598986 52.602935778026)"
+    },
+    {
+      "ride_uuid":"000dd1a9-5313-4ada-94b8-053cb2b0e84d",
+      "imei":"862869030454479",
+      "start_timestamp":1667579951,
+      "end_timestamp":1667581198,
+      "start_coordinates":"POINT(1.7325941795957 52.598137674427)",
+      "end_coordinates":"POINT(1.7309323232637 52.569592315753)"
+    },
+    {
+      "ride_uuid":"000de69c-b8e2-4c9d-95ce-aed190123e1a",
+      "imei":"867584031208569",
+      "start_timestamp":1655880017,
+      "end_timestamp":1655880376,
+      "start_coordinates":"POINT(-2.8652423167176 53.190044237745)",
+      "end_coordinates":"POINT(-2.8802764881429 53.196354028818)"
+    },
+    {
+      "ride_uuid":"000e97a1-8097-4b0e-9637-0f0c793bce2c",
+      "imei":"862869030441708",
+      "start_timestamp":1669454337,
+      "end_timestamp":1669454380,
+      "start_coordinates":"POINT(-2.9094949 53.1954432)",
+      "end_coordinates":"POINT(-2.90938552 53.19543765)"
+    },
+    {
+      "ride_uuid":"000ea88a-871c-4127-b2b7-00cd8fa2663a",
+      "imei":"862869030765833",
+      "start_timestamp":1663517707,
+      "end_timestamp":1663519447,
+      "start_coordinates":"POINT(-0.66258770510583 53.579139127203)",
+      "end_coordinates":"POINT(-0.67737745985218 53.564732865)"
+    },
+    {
+      "ride_uuid":"000eeb04-090e-4be2-8f89-f07c8620678d",
+      "imei":"861123050548252",
+      "start_timestamp":1678814937,
+      "end_timestamp":1678814955,
+      "start_coordinates":"POINT(-2.8808639 53.2139321)",
+      "end_coordinates":"POINT(-2.8808874 53.2139244)"
+    },
+    {
+      "ride_uuid":"000f0ed5-7deb-414f-ae71-a779897b7c43",
+      "imei":"862869030786342",
+      "start_timestamp":1656085295,
+      "end_timestamp":1656085841,
+      "start_coordinates":"POINT(-0.6477328 53.590924)",
+      "end_coordinates":"POINT(-0.66141559 53.57918671)"
+    },
+    {
+      "ride_uuid":"000f2144-6e0a-4d33-ab34-bff00659eedd",
+      "imei":"862869030738350",
+      "start_timestamp":1659978727,
+      "end_timestamp":1659980678,
+      "start_coordinates":"POINT(1.7298536086238 52.606408126982)",
+      "end_coordinates":"POINT(1.7137609247084 52.567081320734)"
+    },
+    {
+      "ride_uuid":"000f3b9b-f604-4ff8-8ca5-275f68127bd6",
+      "imei":"862869030761923",
+      "start_timestamp":1676551726,
+      "end_timestamp":1676552470,
+      "start_coordinates":"POINT(-2.9093732 53.1954304)",
+      "end_coordinates":"POINT(-2.8928435 53.2091075)"
+    },
+    {
+      "ride_uuid":"000f6b6f-01dc-4e5f-8628-ff2418dd489b",
+      "imei":"867584036153216",
+      "start_timestamp":1653156665,
+      "end_timestamp":1653157966,
+      "start_coordinates":"POINT(1.7364087273526 52.602221495806)",
+      "end_coordinates":"POINT(1.7364160002361 52.602200255987)"
+    },
+    {
+      "ride_uuid":"000fdfdc-79bd-4d80-a6c5-a7bc955e42e2",
+      "imei":"867584036163850",
+      "start_timestamp":1638183063,
+      "end_timestamp":1638184914,
+      "start_coordinates":"POINT(1.7377041555614 52.613034210754)",
+      "end_coordinates":"POINT(1.7380525805366 52.613599201584)"
+    },
+    {
+      "ride_uuid":"00101497-4ec1-4628-8305-ad24bfc41805",
+      "imei":"862869030423888",
+      "start_timestamp":1627897925,
+      "end_timestamp":1627898575,
+      "start_coordinates":"POINT(-2.891179972211 53.188528995598)",
+      "end_coordinates":"POINT(-2.9172851932849 53.179931732757)"
+    },
+    {
+      "ride_uuid":"00102c0b-61ef-46f0-bb06-b7a272d7edcf",
+      "imei":"867584035497358",
+      "start_timestamp":1632403464,
+      "end_timestamp":1632404260,
+      "start_coordinates":"POINT(-2.8783420107883 53.192663099936)",
+      "end_coordinates":"POINT(-2.8923653 53.1921997)"
+    },
+    {
+      "ride_uuid":"00105d0b-97b0-4aa4-bcb9-fcf1dd1a5daa",
+      "imei":"862869031334316",
+      "start_timestamp":1693409590,
+      "end_timestamp":1693410599,
+      "start_coordinates":"POINT(1.7136835007987 52.567149608478)",
+      "end_coordinates":"POINT(1.712020149356 52.598222071059)"
+    },
+    {
+      "ride_uuid":"00105ded-92d4-4e1f-b7bb-204211e97059",
+      "imei":"867584035145544",
+      "start_timestamp":1631125059,
+      "end_timestamp":1631126123,
+      "start_coordinates":"POINT(-3.5917041520378 54.548137634474)",
+      "end_coordinates":"POINT(-3.5915404509883 54.548107238697)"
+    },
+    {
+      "ride_uuid":"00105e17-7ec5-42da-bc70-102d6b9998c7",
+      "imei":"862869030415595",
+      "start_timestamp":1704953344,
+      "end_timestamp":1704953655,
+      "start_coordinates":"POINT(-2.875750867745 53.199100213107)",
+      "end_coordinates":"POINT(-2.891714932081 53.195838003304)"
+    },
+    {
+      "ride_uuid":"0010601f-4655-4433-8dca-07c343db6d4f",
+      "imei":"867584036175359",
+      "start_timestamp":1621263902,
+      "end_timestamp":1621264688,
+      "start_coordinates":"POINT(-2.85966146 53.19595522)",
+      "end_coordinates":"POINT(-2.87584211 53.19929831)"
+    },
+    {
+      "ride_uuid":"00109841-2f68-4429-bd3d-44f204debaf6",
+      "imei":"867584031356210",
+      "start_timestamp":1595000973,
+      "end_timestamp":1595002806,
+      "start_coordinates":"POINT(-1.2381005273666 54.574371168941)",
+      "end_coordinates":"POINT(-1.2427925323465 54.561109086428)"
+    },
+    {
+      "ride_uuid":"0010f2e9-8c0d-400d-8ddb-773e09ddea66",
+      "imei":"862869030438456",
+      "start_timestamp":1654777337,
+      "end_timestamp":1654778071,
+      "start_coordinates":"POINT(-1.2376456278029 54.57440447727)",
+      "end_coordinates":"POINT(-1.2478207440741 54.557830141061)"
+    },
+    {
+      "ride_uuid":"001113c8-0c8e-40f1-a5ac-e8a5367e9889",
+      "imei":"862869031339778",
+      "start_timestamp":1697348316,
+      "end_timestamp":1697348373,
+      "start_coordinates":"POINT(1.729837546801 52.602974441806)",
+      "end_coordinates":"POINT(1.7297459087087 52.602928641468)"
+    },
+    {
+      "ride_uuid":"00111e83-6709-4533-9484-6958799d95e4",
+      "imei":"867584036160898",
+      "start_timestamp":1666765568,
+      "end_timestamp":1666765596,
+      "start_coordinates":"POINT(-2.870960448644 53.207384329355)",
+      "end_coordinates":"POINT(-2.8708709159865 53.207369283267)"
+    },
+    {
+      "ride_uuid":"00118590-234c-4381-a60a-d7b77ccb3556",
+      "imei":"862869031348290",
+      "start_timestamp":1688190652,
+      "end_timestamp":1688191378,
+      "start_coordinates":"POINT(1.7246740626812 52.606369138471)",
+      "end_coordinates":"POINT(1.728887474166 52.579003097539)"
+    },
+    {
+      "ride_uuid":"0011a1a4-9b4a-41dd-94af-d26d0c4fe41c",
+      "imei":"8628690307",
+      "start_timestamp":1631044024,
+      "end_timestamp":1631044696,
+      "start_coordinates":"POINT(1.7391764058269 52.619534639666)",
+      "end_coordinates":"POINT(1.7295597803891 52.606514198367)"
+    },
+    {
+      "ride_uuid":"0011a49a-00b5-4cb1-b36b-c7d0b6b03259",
+      "imei":"867584031203230",
+      "start_timestamp":1617993535,
+      "end_timestamp":1617994369,
+      "start_coordinates":"POINT(-3.5855444502068 54.546719681113)",
+      "end_coordinates":"POINT(-3.5867141525259 54.552417739386)"
+    },
+    {
+      "ride_uuid":"0011f764-81b2-45da-9375-707519dee822",
+      "imei":"867584034652318",
+      "start_timestamp":1622467199,
+      "end_timestamp":1622467835,
+      "start_coordinates":"POINT(-2.9094351530175 53.195402592851)",
+      "end_coordinates":"POINT(-2.8926832321181 53.209005371346)"
+    },
+    {
+      "ride_uuid":"0012167a-454e-4411-8511-65c255a2c37c",
+      "imei":"862869030724871",
+      "start_timestamp":1686392048,
+      "end_timestamp":1686392585,
+      "start_coordinates":"POINT(-2.8709243825567 53.207224644437)",
+      "end_coordinates":"POINT(-2.8927430192882 53.209053537884)"
+    },
+    {
+      "ride_uuid":"00121ed9-d188-41cf-a81f-e874f7330918",
+      "imei":"867584036156656",
+      "start_timestamp":1649266487,
+      "end_timestamp":1649266970,
+      "start_coordinates":"POINT(-2.8862173814347 53.191295302228)",
+      "end_coordinates":"POINT(-2.8596596885499 53.195942184006)"
+    },
+    {
+      "ride_uuid":"00128425-1a5e-4e70-9b7f-022cd680fdc2",
+      "imei":"867584036176878",
+      "start_timestamp":1650792363,
+      "end_timestamp":1650793377,
+      "start_coordinates":"POINT(1.6961083333333 52.571785)",
+      "end_coordinates":"POINT(1.7137233333333 52.601443333333)"
+    },
+    {
+      "ride_uuid":"0012d150-5aef-41bc-b166-015588e82f98",
+      "imei":"861123050548302",
+      "start_timestamp":1648564088,
+      "end_timestamp":1648564494,
+      "start_coordinates":"POINT(1.7296448346543 52.606572698961)",
+      "end_coordinates":"POINT(1.7296650788542 52.606484119437)"
+    },
+    {
+      "ride_uuid":"0012f9eb-f389-4283-afea-dd047cc7936e",
+      "imei":"861123050550886",
+      "start_timestamp":1650480984,
+      "end_timestamp":1650481144,
+      "start_coordinates":"POINT(-2.8918188326554 53.195889070778)",
+      "end_coordinates":"POINT(-2.8959583728912 53.199017844106)"
+    },
+    {
+      "ride_uuid":"0012ffd1-972b-4ddd-8956-3929e4029c00",
+      "imei":"867584036156862",
+      "start_timestamp":1662484814,
+      "end_timestamp":1662485462,
+      "start_coordinates":"POINT(-2.8887500945807 53.206516473877)",
+      "end_coordinates":"POINT(-2.8923565680013 53.192189240149)"
+    },
+    {
+      "ride_uuid":"0013073c-35ad-4205-8fad-da775a3c4655",
+      "imei":"867584036162621",
+      "start_timestamp":1686328351,
+      "end_timestamp":1686329123,
+      "start_coordinates":"POINT(-2.8975334282815 53.195936631285)",
+      "end_coordinates":"POINT(-2.9302060826738 53.195337357056)"
+    },
+    {
+      "ride_uuid":"00131b07-0edd-4bdf-9caa-aef54f861fdc",
+      "imei":"862869030415835",
+      "start_timestamp":1659350596,
+      "end_timestamp":1659353623,
+      "start_coordinates":"POINT(1.7297025842474 52.602942928796)",
+      "end_coordinates":"POINT(1.7296066802937 52.605319687987)"
+    },
+    {
+      "ride_uuid":"00135361-23d3-4c6b-9d88-0a78564149d1",
+      "imei":"867584036166283",
+      "start_timestamp":1606161104,
+      "end_timestamp":1606167507,
+      "start_coordinates":"POINT(-1.0687547962641 54.618493245412)",
+      "end_coordinates":"POINT(-1.0687902443803 54.618521536518)"
+    },
+    {
+      "ride_uuid":"001369eb-e25f-4e91-beb7-2b31cbecfffd",
+      "imei":"862869030462118",
+      "start_timestamp":1664211001,
+      "end_timestamp":1664213953,
+      "start_coordinates":"POINT(1.733982437582 52.620863102596)",
+      "end_coordinates":"POINT(1.7260640160299 52.581397274504)"
+    },
+    {
+      "ride_uuid":"001379dc-6b76-4a2d-9446-85f126b939e7",
+      "imei":"862869030789742",
+      "start_timestamp":1641415557,
+      "end_timestamp":1641416131,
+      "start_coordinates":"POINT(-2.8976733754184 53.196059515091)",
+      "end_coordinates":"POINT(-2.8877591937828 53.189135602909)"
+    },
+    {
+      "ride_uuid":"00137b22-83e1-4882-8bf5-8f6d66077673",
+      "imei":"867584035491310",
+      "start_timestamp":1641390009,
+      "end_timestamp":1641390366,
+      "start_coordinates":"POINT(-2.8782267561151 53.192605064259)",
+      "end_coordinates":"POINT(-2.893917449812 53.186747247408)"
+    },
+    {
+      "ride_uuid":"0013a96f-ee4e-40ec-8955-a1b2717f8829",
+      "imei":"862869031346401",
+      "start_timestamp":1700222380,
+      "end_timestamp":1700224136,
+      "start_coordinates":"POINT(1.7208596073399 52.563189512754)",
+      "end_coordinates":"POINT(1.721812786648 52.611789899692)"
+    },
+    {
+      "ride_uuid":"0013ab58-e96c-41f2-87b3-35fc7ef7e258",
+      "imei":"867584036156029",
+      "start_timestamp":1652015095,
+      "end_timestamp":1652017984,
+      "start_coordinates":"POINT(-0.66127814015339 53.579109984009)",
+      "end_coordinates":"POINT(-0.66137887858231 53.579262193662)"
+    },
+    {
+      "ride_uuid":"0013be15-710e-498b-822d-5d4baaedd6f4",
+      "imei":"867584036167851",
+      "start_timestamp":1660776132,
+      "end_timestamp":1660776575,
+      "start_coordinates":"POINT(-3.5852483744224 54.54655894818)",
+      "end_coordinates":"POINT(-3.5772485554838 54.525805741284)"
+    },
+    {
+      "ride_uuid":"0013ceec-07f9-4c62-abc9-315e176eca7a",
+      "imei":"861123050550000",
+      "start_timestamp":1616260805,
+      "end_timestamp":1616261516,
+      "start_coordinates":"POINT(-2.9094506 53.1954298)",
+      "end_coordinates":"POINT(-2.9340837 53.2012312)"
+    },
+    {
+      "ride_uuid":"0013e305-bb5a-47c1-aeed-e4ad51914cb9",
+      "imei":"862869030710000",
+      "start_timestamp":1654867636,
+      "end_timestamp":1654868405,
+      "start_coordinates":"POINT(-1.2484223740559 54.588493714694)",
+      "end_coordinates":"POINT(-1.2489516846847 54.588728458671)"
+    },
+    {
+      "ride_uuid":"001427db-64fa-443f-ae24-2b0b8746291f",
+      "imei":"867584031359750",
+      "start_timestamp":1617818915,
+      "end_timestamp":1617820001,
+      "start_coordinates":"POINT(-2.8895001470879 53.185983236529)",
+      "end_coordinates":"POINT(-2.8875934112317 53.184054277278)"
+    },
+    {
+      "ride_uuid":"00145ffa-47e1-446f-8585-7cdeec01f797",
+      "imei":"867584034640001",
+      "start_timestamp":1648977711,
+      "end_timestamp":1648978193,
+      "start_coordinates":"POINT(-2.8709821791543 53.207329192904)",
+      "end_coordinates":"POINT(-2.8758693413937 53.199361064965)"
+    },
+    {
+      "ride_uuid":"0014a0b4-0030-4b64-a97b-b050db9cbc09",
+      "imei":"867584036167497",
+      "start_timestamp":1631171766,
+      "end_timestamp":1631171992,
+      "start_coordinates":"POINT(-1.22203082 54.70892614)",
+      "end_coordinates":"POINT(-1.22205363 54.70062609)"
+    },
+    {
+      "ride_uuid":"0014b692-d4dc-46ee-be31-2a2db7512aff",
+      "imei":"867584035500433",
+      "start_timestamp":1640107313,
+      "end_timestamp":1640108034,
+      "start_coordinates":"POINT(-1.236286940788 54.671241350604)",
+      "end_coordinates":"POINT(-1.2280581415167 54.695798456237)"
+    },
+    {
+      "ride_uuid":"0014ebb8-d4e2-4d09-a076-b19885aec158",
+      "imei":"862869031335149",
+      "start_timestamp":1693816695,
+      "end_timestamp":1693817684,
+      "start_coordinates":"POINT(1.7225512534062 52.590285533407)",
+      "end_coordinates":"POINT(1.7088989740237 52.580897965819)"
+    },
+    {
+      "ride_uuid":"0014edb3-2f9a-4a3e-a6d1-ea7c1900d9a7",
+      "imei":"862869030739168",
+      "start_timestamp":1631256115,
+      "end_timestamp":1631256937,
+      "start_coordinates":"POINT(-0.77341304904087 52.034605112682)",
+      "end_coordinates":"POINT(-0.7366508186312 52.040083032056)"
+    },
+    {
+      "ride_uuid":"001510b2-d3c5-4956-ac08-ded205d66a57",
+      "imei":"867584035975304",
+      "start_timestamp":1671921115,
+      "end_timestamp":1671921431,
+      "start_coordinates":"POINT(1.7340255705618 52.619977973717)",
+      "end_coordinates":"POINT(1.729504064003 52.60649231495)"
+    },
+    {
+      "ride_uuid":"001537b7-5c5d-4b6b-bbf7-c3d0d803fcec",
+      "imei":"867584036182447",
+      "start_timestamp":1629232250,
+      "end_timestamp":1629234740,
+      "start_coordinates":"POINT(-2.9343647416708 53.201536727187)",
+      "end_coordinates":"POINT(-2.9339070672823 53.201292233199)"
+    },
+    {
+      "ride_uuid":"0015465a-dc0b-4e77-b356-c7c4dd7243e3",
+      "imei":"867584036162621",
+      "start_timestamp":1661355952,
+      "end_timestamp":1661356228,
+      "start_coordinates":"POINT(-2.8807859329426 53.213970066836)",
+      "end_coordinates":"POINT(-2.8838809 53.2022689)"
+    },
+    {
+      "ride_uuid":"00158239-b00b-4ec2-bc3f-a1609bf7cfd8",
+      "imei":"867584035143598",
+      "start_timestamp":1610740000,
+      "end_timestamp":1610748034,
+      "start_coordinates":"POINT(-0.6699708 53.5859552)",
+      "end_coordinates":"POINT(-0.6354378 53.5680396)"
+    },
+    {
+      "ride_uuid":"00164f50-536d-42fa-9ce6-c4990207c1ff",
+      "imei":"867584035142721",
+      "start_timestamp":1629059714,
+      "end_timestamp":1629061731,
+      "start_coordinates":"POINT(-2.1162658959515 52.805179684475)",
+      "end_coordinates":"POINT(-2.1130223112178 52.81033588541)"
+    },
+    {
+      "ride_uuid":"0016505a-9845-4ed1-8d21-1791a724f9c6",
+      "imei":"862869030788488",
+      "start_timestamp":1657188941,
+      "end_timestamp":1657189237,
+      "start_coordinates":"POINT(1.7336936331041 52.59456311176)",
+      "end_coordinates":"POINT(1.7297467509203 52.602900263513)"
+    },
+    {
+      "ride_uuid":"00165d4a-7ca8-460d-938f-38be835c6102",
+      "imei":"862869030782820",
+      "start_timestamp":1645968704,
+      "end_timestamp":1645969199,
+      "start_coordinates":"POINT(-2.892701649328 53.208959321972)",
+      "end_coordinates":"POINT(-2.9160634535045 53.207228882449)"
+    },
+    {
+      "ride_uuid":"00166c3e-6e8a-49b2-a75f-bce5611de039",
+      "imei":"867584036155146",
+      "start_timestamp":1611252558,
+      "end_timestamp":1611253026,
+      "start_coordinates":"POINT(-2.897799876016 53.196002111859)",
+      "end_coordinates":"POINT(-2.9094915 53.1954257)"
+    },
+    {
+      "ride_uuid":"00168f06-97b8-4805-9bc2-6a25fafe2c7e",
+      "imei":"867584035727192",
+      "start_timestamp":1621706855,
+      "end_timestamp":1621710786,
+      "start_coordinates":"POINT(-1.2332382801943 54.570559114648)",
+      "end_coordinates":"POINT(-1.243545051076 54.575432751158)"
+    },
+    {
+      "ride_uuid":"0016a20a-3898-44d0-aa98-e2ead1f75e9e",
+      "imei":"867584031381929",
+      "start_timestamp":1679132460,
+      "end_timestamp":1679132984,
+      "start_coordinates":"POINT(-2.8578823357638 53.189029474469)",
+      "end_coordinates":"POINT(-2.8879153922148 53.189280933928)"
+    },
+    {
+      "ride_uuid":"0016a675-210f-452b-a586-49b425a99c0b",
+      "imei":"862869030485283",
+      "start_timestamp":1640216413,
+      "end_timestamp":1640217731,
+      "start_coordinates":"POINT(-1.2103129608833 54.685382406297)",
+      "end_coordinates":"POINT(-1.224095055034 54.679301621937)"
+    },
+    {
+      "ride_uuid":"0016bf75-260b-489d-a3ae-21dd28ae4bc5",
+      "imei":"867584035499371",
+      "start_timestamp":1628106453,
+      "end_timestamp":1628107223,
+      "start_coordinates":"POINT(-2.8960084 53.1989511)",
+      "end_coordinates":"POINT(-2.9094982 53.1955219)"
+    },
+    {
+      "ride_uuid":"0016d1c7-1f65-4458-af60-6c3713500f59",
+      "imei":"862869030765833",
+      "start_timestamp":1634395724,
+      "end_timestamp":1634396419,
+      "start_coordinates":"POINT(-0.66287354583199 53.598089328829)",
+      "end_coordinates":"POINT(-0.64281451577231 53.591071444987)"
+    },
+    {
+      "ride_uuid":"0016de63-8b0c-49d0-b99e-0a954f0b9d05",
+      "imei":"862869030750587",
+      "start_timestamp":1636990474,
+      "end_timestamp":1636991006,
+      "start_coordinates":"POINT(1.7365557188573 52.602651853828)",
+      "end_coordinates":"POINT(1.738056491285 52.613626010113)"
+    },
+    {
+      "ride_uuid":"0016f06f-c8be-455a-8068-297ca47b2e0a",
+      "imei":"862869030494715",
+      "start_timestamp":1642690909,
+      "end_timestamp":1642691268,
+      "start_coordinates":"POINT(-0.65443364903449 53.582066909045)",
+      "end_coordinates":"POINT(-0.6594698092209 53.590600166122)"
+    },
+    {
+      "ride_uuid":"0016f391-2fe4-4cc2-aba2-f90cb0d1c0bd",
+      "imei":"862869030781921",
+      "start_timestamp":1659628151,
+      "end_timestamp":1659629087,
+      "start_coordinates":"POINT(-1.2280511417905 54.695846757011)",
+      "end_coordinates":"POINT(-1.211813779899 54.66712123282)"
+    },
+    {
+      "ride_uuid":"00170bb9-b724-4222-be9f-09c2ec4a3714",
+      "imei":"867584031307957",
+      "start_timestamp":1627043806,
+      "end_timestamp":1627044529,
+      "start_coordinates":"POINT(-2.9260501 53.2084742)",
+      "end_coordinates":"POINT(-2.909566 53.1955055)"
+    },
+    {
+      "ride_uuid":"001768fe-e4ac-49dc-a302-ac7d5dc70d38",
+      "imei":"862869030448695",
+      "start_timestamp":1647465266,
+      "end_timestamp":1647468835,
+      "start_coordinates":"POINT(-2.8841860828215 53.202195275803)",
+      "end_coordinates":"POINT(-2.8761382653337 53.211424005562)"
+    },
+    {
+      "ride_uuid":"00178073-5b4e-488f-bfb7-0265b6f6ef3c",
+      "imei":"867584036176878",
+      "start_timestamp":1655032898,
+      "end_timestamp":1655034254,
+      "start_coordinates":"POINT(1.7098788927031 52.575153915936)",
+      "end_coordinates":"POINT(1.7287946295501 52.578951283411)"
+    },
+    {
+      "ride_uuid":"00178fa0-b547-40a8-be10-e5925ffb53fb",
+      "imei":"867584031208569",
+      "start_timestamp":1696176614,
+      "end_timestamp":1696177015,
+      "start_coordinates":"POINT(-2.8782474263236 53.192425224157)",
+      "end_coordinates":"POINT(-2.8596855435918 53.195908442982)"
+    },
+    {
+      "ride_uuid":"0017b0ce-6252-4fa4-b98b-de0592455025",
+      "imei":"867584035144422",
+      "start_timestamp":1625846201,
+      "end_timestamp":1625847052,
+      "start_coordinates":"POINT(-2.9178759642234 53.179800363335)",
+      "end_coordinates":"POINT(-2.9094239356707 53.19540494777)"
+    },
+    {
+      "ride_uuid":"0017e2db-9e9a-4d7e-85b2-0a82efce5548",
+      "imei":"867584034672068",
+      "start_timestamp":1622988192,
+      "end_timestamp":1622989323,
+      "start_coordinates":"POINT(1.7377230897562 52.608670843814)",
+      "end_coordinates":"POINT(1.7364229142673 52.602191373183)"
+    },
+    {
+      "ride_uuid":"001806d1-fc3b-484c-9087-c0be570a2505",
+      "imei":"867584035505150",
+      "start_timestamp":1656782610,
+      "end_timestamp":1656783616,
+      "start_coordinates":"POINT(-2.8808587 53.21393759)",
+      "end_coordinates":"POINT(-2.88464415 53.19683409)"
+    },
+    {
+      "ride_uuid":"0018268c-7e01-4230-91fc-f9a698b907d6",
+      "imei":"867584034123740",
+      "start_timestamp":1598285681,
+      "end_timestamp":1598287857,
+      "start_coordinates":"POINT(-1.0647762933753 54.619129984123)",
+      "end_coordinates":"POINT(-1.0647439108397 54.619077882717)"
+    },
+    {
+      "ride_uuid":"00183fdf-9926-4d04-80c9-42724c918393",
+      "imei":"862869031346245",
+      "start_timestamp":1704177143,
+      "end_timestamp":1704178057,
+      "start_coordinates":"POINT(1.7248887803886 52.60948993407)",
+      "end_coordinates":"POINT(1.7005296292234 52.586652797784)"
+    },
+    {
+      "ride_uuid":"00187e66-2af8-4dd2-b0b4-778244243dae",
+      "imei":"867584035727192",
+      "start_timestamp":1669128548,
+      "end_timestamp":1669129065,
+      "start_coordinates":"POINT(-0.6551163 53.5808631)",
+      "end_coordinates":"POINT(-0.6477331 53.5908808)"
+    },
+    {
+      "ride_uuid":"00188100-008e-450f-bdfc-5e37476d57b5",
+      "imei":"867584036176878",
+      "start_timestamp":1636493792,
+      "end_timestamp":1636496365,
+      "start_coordinates":"POINT(1.7131995167008 52.557893158471)",
+      "end_coordinates":"POINT(1.7131531523114 52.557837671357)"
+    },
+    {
+      "ride_uuid":"00189ac6-a67e-422f-ab00-f87c87aab14f",
+      "imei":"867584035740054",
+      "start_timestamp":1705094793,
+      "end_timestamp":1705095560,
+      "start_coordinates":"POINT(-2.8972791 53.2090909)",
+      "end_coordinates":"POINT(-2.9261295 53.2084306)"
+    },
+    {
+      "ride_uuid":"00189f97-a504-4091-855b-ccdebb980d57",
+      "imei":"862869030434422",
+      "start_timestamp":1634672062,
+      "end_timestamp":1634673327,
+      "start_coordinates":"POINT(1.729327306738 52.606798046105)",
+      "end_coordinates":"POINT(1.7273133811885 52.613711073977)"
+    },
+    {
+      "ride_uuid":"0018a306-e4dc-4e77-afe8-b57f5f51b6b9",
+      "imei":"862869031361137",
+      "start_timestamp":1698219627,
+      "end_timestamp":1698220049,
+      "start_coordinates":"POINT(1.7278804 52.6000325)",
+      "end_coordinates":"POINT(1.7211781 52.6118387)"
+    },
+    {
+      "ride_uuid":"0018e5ae-34bd-4bcb-9999-b2073a09a17c",
+      "imei":"867584034652318",
+      "start_timestamp":1613762861,
+      "end_timestamp":1613765605,
+      "start_coordinates":"POINT(-1.2429657 54.5611723)",
+      "end_coordinates":"POINT(-1.240172 54.5651295)"
+    },
+    {
+      "ride_uuid":"0018eee6-5f1a-41db-b79c-0ef35eafa4d8",
+      "imei":"862869030424076",
+      "start_timestamp":1644602343,
+      "end_timestamp":1644602597,
+      "start_coordinates":"POINT(-2.8883397735519 53.193653613891)",
+      "end_coordinates":"POINT(-2.8802484087673 53.1963028573)"
+    },
+    {
+      "ride_uuid":"00190290-a654-47bc-9290-a78a2308c8fb",
+      "imei":"867584035966360",
+      "start_timestamp":1618611032,
+      "end_timestamp":1618614262,
+      "start_coordinates":"POINT(1.736390768207 52.602199520812)",
+      "end_coordinates":"POINT(1.7360467044319 52.602600523769)"
+    },
+    {
+      "ride_uuid":"00190dbb-e6ff-42c9-93bb-56ecf22ad24b",
+      "imei":"862869030387190",
+      "start_timestamp":1633974696,
+      "end_timestamp":1633975355,
+      "start_coordinates":"POINT(-2.8877788154754 53.189145267697)",
+      "end_coordinates":"POINT(-2.9164674 53.1731742)"
+    },
+    {
+      "ride_uuid":"00193193-f357-4dd5-b12d-2bbcafaefc30",
+      "imei":"867584031228369",
+      "start_timestamp":1664810541,
+      "end_timestamp":1664812575,
+      "start_coordinates":"POINT(-0.78517968536614 52.028151667413)",
+      "end_coordinates":"POINT(-0.76835491595488 52.045845194426)"
+    },
+    {
+      "ride_uuid":"00195515-01b8-4204-9b7c-5572a96381bb",
+      "imei":"867584031354047",
+      "start_timestamp":1656668444,
+      "end_timestamp":1656669021,
+      "start_coordinates":"POINT(-2.8808049338686 53.214118814049)",
+      "end_coordinates":"POINT(-2.8917100425641 53.195829689423)"
+    },
+    {
+      "ride_uuid":"001986ff-97ae-44ee-b6ff-f506ae946227",
+      "imei":"867584034649694",
+      "start_timestamp":1662852268,
+      "end_timestamp":1662853164,
+      "start_coordinates":"POINT(-1.2061992 54.6861149)",
+      "end_coordinates":"POINT(-1.2146983 54.6854329)"
+    },
+    {
+      "ride_uuid":"0019a0a1-c273-4b84-8d44-67d2bacbf332",
+      "imei":"867584035142721",
+      "start_timestamp":1629982094,
+      "end_timestamp":1629983012,
+      "start_coordinates":"POINT(-2.1178955107951 52.819780021685)",
+      "end_coordinates":"POINT(-2.1219824328199 52.803958576156)"
+    },
+    {
+      "ride_uuid":"0019c1f9-ed88-4032-8b74-90cfbf396a5f",
+      "imei":"862869030793892",
+      "start_timestamp":1635301147,
+      "end_timestamp":1635304411,
+      "start_coordinates":"POINT(1.72597333 52.61099514)",
+      "end_coordinates":"POINT(1.73803385 52.61355901)"
+    },
+    {
+      "ride_uuid":"0019c828-d407-462c-b933-5a7cb5755596",
+      "imei":"867584035971121",
+      "start_timestamp":1647935480,
+      "end_timestamp":1647935990,
+      "start_coordinates":"POINT(-2.8881347 53.1937845)",
+      "end_coordinates":"POINT(-2.87084073 53.20737475)"
+    },
+    {
+      "ride_uuid":"0019eb46-6492-4b77-8b52-8536d3bb3380",
+      "imei":"862869030481589",
+      "start_timestamp":1625914699,
+      "end_timestamp":1625915608,
+      "start_coordinates":"POINT(-0.65401797693513 53.590612855715)",
+      "end_coordinates":"POINT(-0.67000796612076 53.585917792067)"
+    },
+    {
+      "ride_uuid":"001a2a11-e5bb-4215-8d8a-b4c62c28dad8",
+      "imei":"867584035736078",
+      "start_timestamp":1622474257,
+      "end_timestamp":1622493821,
+      "start_coordinates":"POINT(-0.64268594607771 53.591130101172)",
+      "end_coordinates":"POINT(-0.6447709674062 53.566639779468)"
+    },
+    {
+      "ride_uuid":"001a3076-89d2-4f70-b167-c25bf66b2364",
+      "imei":"862869030423888",
+      "start_timestamp":1657395817,
+      "end_timestamp":1657399120,
+      "start_coordinates":"POINT(-2.8692337712221 53.187862155603)",
+      "end_coordinates":"POINT(-2.9258269659418 53.20832279727)"
+    },
+    {
+      "ride_uuid":"001a70b9-9d37-401f-9ee0-ac681ed9c95c",
+      "imei":"867584036176290",
+      "start_timestamp":1636011688,
+      "end_timestamp":1636011890,
+      "start_coordinates":"POINT(1.728578265758 52.606307943401)",
+      "end_coordinates":"POINT(1.7364860046671 52.602194105324)"
+    },
+    {
+      "ride_uuid":"001aa240-e6be-487c-8d8c-c623a3af4154",
+      "imei":"867584035483515",
+      "start_timestamp":1641845187,
+      "end_timestamp":1641845454,
+      "start_coordinates":"POINT(-0.77327915054534 52.034559160215)",
+      "end_coordinates":"POINT(-0.76255893396548 52.037051502999)"
+    },
+    {
+      "ride_uuid":"001af423-05d7-4757-91d0-04306cdb1083",
+      "imei":"867584035970438",
+      "start_timestamp":1634922885,
+      "end_timestamp":1634923743,
+      "start_coordinates":"POINT(-0.65578277738583 53.575004587628)",
+      "end_coordinates":"POINT(-0.66306412266699 53.598100494255)"
+    },
+    {
+      "ride_uuid":"001b122b-b6d9-4f61-9f45-ee08789a7ba9",
+      "imei":"867584036160146",
+      "start_timestamp":1661539597,
+      "end_timestamp":1661541840,
+      "start_coordinates":"POINT(1.7372318298614 52.608222469375)",
+      "end_coordinates":"POINT(1.7354848909512 52.594533987271)"
+    },
+    {
+      "ride_uuid":"001b247e-b1c6-4cc0-9245-48e5436cc03e",
+      "imei":"867584035976153",
+      "start_timestamp":1655287530,
+      "end_timestamp":1655288123,
+      "start_coordinates":"POINT(-2.9093679 53.19545141)",
+      "end_coordinates":"POINT(-2.89721118 53.20911021)"
+    },
+    {
+      "ride_uuid":"001b59fd-7eb2-4e1d-ba23-de9c025674e8",
+      "imei":"867584031418689",
+      "start_timestamp":1636557722,
+      "end_timestamp":1636558524,
+      "start_coordinates":"POINT(1.7151627575386 52.604485802552)",
+      "end_coordinates":"POINT(1.7300380408184 52.578603779625)"
+    },
+    {
+      "ride_uuid":"001b8077-2401-40b3-a568-478fb14228e5",
+      "imei":"867584034690383",
+      "start_timestamp":1600713703,
+      "end_timestamp":1600713757,
+      "start_coordinates":"POINT(-1.2402568356254 54.565124836273)",
+      "end_coordinates":"POINT(-1.2407785272648 54.564981858326)"
+    },
+    {
+      "ride_uuid":"001b851a-cb0b-43d6-9210-c2bb4b25f86d",
+      "imei":"867584035142483",
+      "start_timestamp":1630775285,
+      "end_timestamp":1630776245,
+      "start_coordinates":"POINT(-2.8913261662957 53.188555360806)",
+      "end_coordinates":"POINT(-2.9173563 53.1798842)"
+    },
+    {
+      "ride_uuid":"001bd8e5-5feb-4482-b681-0c8d9b5e8bd5",
+      "imei":"862869030795392",
+      "start_timestamp":1632375473,
+      "end_timestamp":1632376176,
+      "start_coordinates":"POINT(1.7238992 52.6070484)",
+      "end_coordinates":"POINT(1.7129939 52.5911334)"
+    },
+    {
+      "ride_uuid":"001c0db0-ae21-4dd0-9889-cd38f98b5d91",
+      "imei":"862869031497808",
+      "start_timestamp":1688403467,
+      "end_timestamp":1688403944,
+      "start_coordinates":"POINT(1.7339116643063 52.619885134503)",
+      "end_coordinates":"POINT(1.7296300276751 52.606526085403)"
+    },
+    {
+      "ride_uuid":"001c2d80-6167-4967-b6c0-f38bcfc59c7e",
+      "imei":"867584036163850",
+      "start_timestamp":1632140112,
+      "end_timestamp":1632140447,
+      "start_coordinates":"POINT(1.7239554087691 52.586174449266)",
+      "end_coordinates":"POINT(1.7224699947656 52.578697159175)"
+    },
+    {
+      "ride_uuid":"001c45a0-32ae-4cce-9dc3-f13a2927ce70",
+      "imei":"867584034641881",
+      "start_timestamp":1624644367,
+      "end_timestamp":1624646604,
+      "start_coordinates":"POINT(-3.5856043986731 54.546658352032)",
+      "end_coordinates":"POINT(-3.5636168733589 54.538180430985)"
+    },
+    {
+      "ride_uuid":"001c4c73-991a-40d6-93bd-465ae42193b4",
+      "imei":"867584036157555",
+      "start_timestamp":1691350178,
+      "end_timestamp":1691350629,
+      "start_coordinates":"POINT(-2.8924919579195 53.192122494762)",
+      "end_coordinates":"POINT(-2.8838267272753 53.20226775445)"
+    },
+    {
+      "ride_uuid":"001c6dee-459e-47c4-ba86-e1d90431229a",
+      "imei":"862869030485283",
+      "start_timestamp":1654177041,
+      "end_timestamp":1654178579,
+      "start_coordinates":"POINT(-1.1895113908633 54.660950092701)",
+      "end_coordinates":"POINT(-1.1902611881598 54.661251929471)"
+    },
+    {
+      "ride_uuid":"001c78e4-8765-4ad7-abec-60608edddd85",
+      "imei":"862869031334357",
+      "start_timestamp":1692723189,
+      "end_timestamp":1692724100,
+      "start_coordinates":"POINT(1.7327027989765 52.602542228966)",
+      "end_coordinates":"POINT(1.7340049685051 52.60376445073)"
+    },
+    {
+      "ride_uuid":"001c89e7-2b8a-452d-b29e-956833972b00",
+      "imei":"862869030443799",
+      "start_timestamp":1647290853,
+      "end_timestamp":1647291343,
+      "start_coordinates":"POINT(-1.229261068616 54.574848436271)",
+      "end_coordinates":"POINT(-1.2293118919676 54.574813516693)"
+    },
+    {
+      "ride_uuid":"001ca164-b153-4677-98b8-d140d8910d2b",
+      "imei":"862869031340073",
+      "start_timestamp":1704555354,
+      "end_timestamp":1704555680,
+      "start_coordinates":"POINT(1.7198070351409 52.606492575254)",
+      "end_coordinates":"POINT(1.7119879423566 52.598242690775)"
+    },
+    {
+      "ride_uuid":"001ca394-e815-4386-8bcc-264b3e78b1ec",
+      "imei":"867584035975304",
+      "start_timestamp":1673735960,
+      "end_timestamp":1673736431,
+      "start_coordinates":"POINT(1.7337858098505 52.594595014161)",
+      "end_coordinates":"POINT(1.7212617659659 52.604888817297)"
+    },
+    {
+      "ride_uuid":"001cf5fa-198c-449c-b4c0-d74b7ace5b92",
+      "imei":"862869031497642",
+      "start_timestamp":1692216307,
+      "end_timestamp":1692217386,
+      "start_coordinates":"POINT(1.7213366366939 52.563248472337)",
+      "end_coordinates":"POINT(1.7132387124018 52.601669943009)"
+    },
+    {
+      "ride_uuid":"001cf758-4493-4385-8453-f9e02ba50fe4",
+      "imei":"867584034654314",
+      "start_timestamp":1658501389,
+      "end_timestamp":1658502718,
+      "start_coordinates":"POINT(-0.75929023674041 52.043382950746)",
+      "end_coordinates":"POINT(-0.75974744402158 52.065435616177)"
+    },
+    {
+      "ride_uuid":"001d339c-3cda-4322-ab59-55d326b52883",
+      "imei":"867584035143861",
+      "start_timestamp":1607721903,
+      "end_timestamp":1607722461,
+      "start_coordinates":"POINT(-2.1320915 52.7945101)",
+      "end_coordinates":"POINT(-2.1185615 52.8088852)"
+    },
+    {
+      "ride_uuid":"001d3882-e528-4e96-bce2-32b8a1c5b174",
+      "imei":"862869030789874",
+      "start_timestamp":1641300464,
+      "end_timestamp":1641300946,
+      "start_coordinates":"POINT(1.7276476230488 52.608224842746)",
+      "end_coordinates":"POINT(1.7339662369357 52.620081547697)"
+    },
+    {
+      "ride_uuid":"001d48e3-c6de-40db-8d87-fdff45a530d8",
+      "imei":"867584035145676",
+      "start_timestamp":1695109677,
+      "end_timestamp":1695109986,
+      "start_coordinates":"POINT(-2.8960938099799 53.198931966958)",
+      "end_coordinates":"POINT(-2.8924808539069 53.192177510341)"
+    },
+    {
+      "ride_uuid":"001d4dc2-b0d7-4b96-a391-b189e3ed65c3",
+      "imei":"867584036156870",
+      "start_timestamp":1624727245,
+      "end_timestamp":1624727801,
+      "start_coordinates":"POINT(-1.2496297596381 54.546419473064)",
+      "end_coordinates":"POINT(-1.2597071671757 54.532782466827)"
+    },
+    {
+      "ride_uuid":"001d6564-eba4-46fc-a240-a8908a1bb289",
+      "imei":"867584035144422",
+      "start_timestamp":1638538822,
+      "end_timestamp":1638544881,
+      "start_coordinates":"POINT(-2.8877484487096 53.189209267052)",
+      "end_coordinates":"POINT(-2.8930604936722 53.195079968857)"
+    },
+    {
+      "ride_uuid":"001d718f-d25a-40d6-826a-8e1dc83a8dd3",
+      "imei":"867584036156458",
+      "start_timestamp":1636916117,
+      "end_timestamp":1636916721,
+      "start_coordinates":"POINT(-2.875894177705 53.199335429817)",
+      "end_coordinates":"POINT(-2.9020670056343 53.192665572278)"
+    },
+    {
+      "ride_uuid":"001dd362-0a76-4f2f-a0dd-28467adf7213",
+      "imei":"862869030415595",
+      "start_timestamp":1659648656,
+      "end_timestamp":1659648982,
+      "start_coordinates":"POINT(1.7241077488477 52.585832656772)",
+      "end_coordinates":"POINT(1.712262306782 52.578968680326)"
+    },
+    {
+      "ride_uuid":"001df2b3-89c8-4ada-b2ea-fbf7d2229c65",
+      "imei":"862869030475698",
+      "start_timestamp":1662800213,
+      "end_timestamp":1662800892,
+      "start_coordinates":"POINT(1.7331975 52.5981499)",
+      "end_coordinates":"POINT(1.7331636 52.5981734)"
+    },
+    {
+      "ride_uuid":"001e242e-7cef-4a0d-bc99-4315c1d81678",
+      "imei":"867584035145783",
+      "start_timestamp":1641226470,
+      "end_timestamp":1641227324,
+      "start_coordinates":"POINT(1.698415 52.583843333333)",
+      "end_coordinates":"POINT(1.7096447 52.575133)"
+    },
+    {
+      "ride_uuid":"001e341a-7bee-40fd-8f4d-3b3b45929d2d",
+      "imei":"861123050550886",
+      "start_timestamp":1622572241,
+      "end_timestamp":1622572714,
+      "start_coordinates":"POINT(-2.8910294707737 53.18844047192)",
+      "end_coordinates":"POINT(-2.8691194386514 53.187888160181)"
+    },
+    {
+      "ride_uuid":"001eb3cf-e6ef-4d40-8377-a4c68a3c3594",
+      "imei":"867584036162407",
+      "start_timestamp":1643744793,
+      "end_timestamp":1643745723,
+      "start_coordinates":"POINT(-2.8882207264771 53.193816663508)",
+      "end_coordinates":"POINT(-2.8690960345216 53.187862802473)"
+    },
+    {
+      "ride_uuid":"001ed32a-438c-4621-bff4-a6a99d216d91",
+      "imei":"867584035975379",
+      "start_timestamp":1692381378,
+      "end_timestamp":1692381402,
+      "start_coordinates":"POINT(-2.8874704752959 53.189502409953)",
+      "end_coordinates":"POINT(-2.8876798257572 53.18913209792)"
+    },
+    {
+      "ride_uuid":"001efe4d-0250-4d8a-867a-697e68a53748",
+      "imei":"867584036181076",
+      "start_timestamp":1615918750,
+      "end_timestamp":1615919047,
+      "start_coordinates":"POINT(-2.8678560762251 53.187457262805)",
+      "end_coordinates":"POINT(-2.8783069966783 53.192678081293)"
+    },
+    {
+      "ride_uuid":"001f31c5-0303-47c8-9ad7-911080f60842",
+      "imei":"862869030793892",
+      "start_timestamp":1630604881,
+      "end_timestamp":1630605988,
+      "start_coordinates":"POINT(1.720575299617 52.605763988798)",
+      "end_coordinates":"POINT(1.7090737904451 52.57493910392)"
+    },
+    {
+      "ride_uuid":"001f51b9-6051-44f6-ab63-bc1ac13be264",
+      "imei":"867584036169915",
+      "start_timestamp":1654847705,
+      "end_timestamp":1654850020,
+      "start_coordinates":"POINT(-0.75783626212501 52.050390781302)",
+      "end_coordinates":"POINT(-0.76236127539116 52.045950938147)"
+    },
+    {
+      "ride_uuid":"001f6649-0447-42ea-8d9a-e776c8fd0a84",
+      "imei":"862869030438944",
+      "start_timestamp":1618173074,
+      "end_timestamp":1618173999,
+      "start_coordinates":"POINT(-2.8759590460846 53.199303727161)",
+      "end_coordinates":"POINT(-2.8708213429593 53.207349097846)"
+    },
+    {
+      "ride_uuid":"001f6948-53a8-49ce-98a4-bc8bb2786797",
+      "imei":"862869030788488",
+      "start_timestamp":1636814316,
+      "end_timestamp":1636815728,
+      "start_coordinates":"POINT(-1.1992464821069 54.659206259354)",
+      "end_coordinates":"POINT(-1.2436383348804 54.694526043682)"
+    },
+    {
+      "ride_uuid":"001f78ee-2f67-4f74-8566-6a9968f902e6",
+      "imei":"867584036165913",
+      "start_timestamp":1605287698,
+      "end_timestamp":1605288314,
+      "start_coordinates":"POINT(-0.76213545265354 52.045899346902)",
+      "end_coordinates":"POINT(-0.7500904 52.0441872)"
+    },
+    {
+      "ride_uuid":"001f8963-9b1e-47eb-b17e-c5e51671c524",
+      "imei":"862869030784073",
+      "start_timestamp":1642347152,
+      "end_timestamp":1642348913,
+      "start_coordinates":"POINT(1.7330861599114 52.610175456481)",
+      "end_coordinates":"POINT(1.6932377939929 52.57039999736)"
+    },
+    {
+      "ride_uuid":"001f8b40-bbb6-4049-846a-b340178242e7",
+      "imei":"867584031418689",
+      "start_timestamp":1627595617,
+      "end_timestamp":1627597022,
+      "start_coordinates":"POINT(1.7301271462297 52.578295696003)",
+      "end_coordinates":"POINT(1.6930804093495 52.570273450981)"
+    },
+    {
+      "ride_uuid":"001fb47c-b00c-477a-8a2c-90aeb7a094cd",
+      "imei":"867584034684121",
+      "start_timestamp":1679358901,
+      "end_timestamp":1679359365,
+      "start_coordinates":"POINT(1.7237025 52.607176)",
+      "end_coordinates":"POINT(1.7252729 52.5960236)"
+    },
+    {
+      "ride_uuid":"001fd978-2b6c-4f1c-a815-fd87a7501a12",
+      "imei":"867584034652318",
+      "start_timestamp":1673717608,
+      "end_timestamp":1673718329,
+      "start_coordinates":"POINT(-2.8804452415282 53.196332308562)",
+      "end_coordinates":"POINT(-2.8851607265803 53.191416873258)"
+    },
+    {
+      "ride_uuid":"001fe0f3-4ef3-4e49-8955-eada5832c5bb",
+      "imei":"867584036175359",
+      "start_timestamp":1691863099,
+      "end_timestamp":1691864088,
+      "start_coordinates":"POINT(-2.8758822 53.1992999)",
+      "end_coordinates":"POINT(-2.9093303 53.1954217)"
+    },
+    {
+      "ride_uuid":"001fe690-b4a1-4137-9f95-11f8675e301e",
+      "imei":"867584036168628",
+      "start_timestamp":1701784376,
+      "end_timestamp":1701785894,
+      "start_coordinates":"POINT(-2.8755993861732 53.199364766528)",
+      "end_coordinates":"POINT(-2.9080232688358 53.178973299303)"
+    },
+    {
+      "ride_uuid":"001fea07-a540-4ed6-8f7f-f8eaf20ee784",
+      "imei":"867584035729461",
+      "start_timestamp":1657200569,
+      "end_timestamp":1657203172,
+      "start_coordinates":"POINT(1.7375306552348 52.608815376598)",
+      "end_coordinates":"POINT(1.7375393925921 52.608608671187)"
+    },
+    {
+      "ride_uuid":"001ff85e-d26f-43d9-a77c-93122bac93d8",
+      "imei":"867584035182448",
+      "start_timestamp":1616845698,
+      "end_timestamp":1616847965,
+      "start_coordinates":"POINT(-2.8848842815085 53.191447420059)",
+      "end_coordinates":"POINT(-2.8802362669673 53.196320101384)"
+    },
+    {
+      "ride_uuid":"00201805-5d58-4a68-b40d-7b3be0245fad",
+      "imei":"867584031228369",
+      "start_timestamp":1672658319,
+      "end_timestamp":1672660254,
+      "start_coordinates":"POINT(1.7274244103992 52.608186196612)",
+      "end_coordinates":"POINT(1.7117091511999 52.598274999312)"
+    },
+    {
+      "ride_uuid":"0020316e-e9d9-459b-b4bd-4b48397d7d57",
+      "imei":"867584034650437",
+      "start_timestamp":1623342240,
+      "end_timestamp":1623343068,
+      "start_coordinates":"POINT(-2.8931271799998 53.208768252822)",
+      "end_coordinates":"POINT(-2.8881803316391 53.193763710078)"
+    },
+    {
+      "ride_uuid":"002036ab-a896-438a-b37b-43c35e485949",
+      "imei":"861123050551637",
+      "start_timestamp":1654861420,
+      "end_timestamp":1654862198,
+      "start_coordinates":"POINT(-2.8656170081346 53.175921798974)",
+      "end_coordinates":"POINT(-2.8849695911605 53.191530443265)"
+    },
+    {
+      "ride_uuid":"00207c25-bcbc-4d59-80a2-ea5a74914cbf",
+      "imei":"862869030448695",
+      "start_timestamp":1627215728,
+      "end_timestamp":1627216830,
+      "start_coordinates":"POINT(-2.884991 53.191496)",
+      "end_coordinates":"POINT(-2.8938584 53.1867592)"
+    },
+    {
+      "ride_uuid":"00208584-89ba-4e6d-a023-f5f46483dc86",
+      "imei":"867584035144422",
+      "start_timestamp":1617887185,
+      "end_timestamp":1617888298,
+      "start_coordinates":"POINT(-2.9162966786332 53.173353925627)",
+      "end_coordinates":"POINT(-2.8803160678822 53.196314796306)"
+    },
+    {
+      "ride_uuid":"0020a7a4-c698-4b17-bb51-f05ff04d8bee",
+      "imei":"862869030424076",
+      "start_timestamp":1652118488,
+      "end_timestamp":1652119768,
+      "start_coordinates":"POINT(-2.9165114555508 53.173198895529)",
+      "end_coordinates":"POINT(-2.8881706483662 53.193818209693)"
+    },
+    {
+      "ride_uuid":"0020f1c1-34a9-4fef-b979-a4beac779a76",
+      "imei":"862869030750744",
+      "start_timestamp":1649016538,
+      "end_timestamp":1649016694,
+      "start_coordinates":"POINT(1.7260818057506 52.610872254036)",
+      "end_coordinates":"POINT(1.7261575755124 52.61084953839)"
+    },
+    {
+      "ride_uuid":"00213c80-ef4d-474b-8b3b-547dfdaae4d0",
+      "imei":"8675840361550001",
+      "start_timestamp":1668375329,
+      "end_timestamp":1668375617,
+      "start_coordinates":"POINT(-2.8876021845737 53.189398191555)",
+      "end_coordinates":"POINT(-2.8802164767134 53.196335979655)"
+    },
+    {
+      "ride_uuid":"0021bd64-ad6e-47c7-be8c-604c90bf30f1",
+      "imei":"867584034690383",
+      "start_timestamp":1595602481,
+      "end_timestamp":1595604735,
+      "start_coordinates":"POINT(-1.2427965306431 54.5612160248)",
+      "end_coordinates":"POINT(-1.2430443169219 54.561116475388)"
+    },
+    {
+      "ride_uuid":"0021dd14-9333-4c8a-bfd0-4e26ae097da3",
+      "imei":"867584036178742",
+      "start_timestamp":1621352302,
+      "end_timestamp":1621353640,
+      "start_coordinates":"POINT(-2.0874378400912 52.814847697014)",
+      "end_coordinates":"POINT(-2.1163289428613 52.805191128498)"
+    },
+    {
+      "ride_uuid":"0021e511-14f0-40ee-8a66-403adba06e54",
+      "imei":"862869031333565",
+      "start_timestamp":1701787083,
+      "end_timestamp":1701787511,
+      "start_coordinates":"POINT(1.734064808117 52.619991484147)",
+      "end_coordinates":"POINT(1.727730188165 52.608271676132)"
+    },
+    {
+      "ride_uuid":"00221199-67a3-4add-a346-489883fca1c0",
+      "imei":"862869030734243",
+      "start_timestamp":1660240043,
+      "end_timestamp":1660240772,
+      "start_coordinates":"POINT(1.7377538642819 52.611152751639)",
+      "end_coordinates":"POINT(1.725166416183 52.609632205922)"
+    },
+    {
+      "ride_uuid":"00221399-2c11-4514-bb5b-8b7cd95771d1",
+      "imei":"867584035140001",
+      "start_timestamp":1680694276,
+      "end_timestamp":1680694706,
+      "start_coordinates":"POINT(-2.8808847 53.1984409)",
+      "end_coordinates":"POINT(-2.8760959 53.2114189)"
+    },
+    {
+      "ride_uuid":"00221449-7ba1-49d7-b78a-92bee5a326ed",
+      "imei":"867584035504872",
+      "start_timestamp":1676781780,
+      "end_timestamp":1676782124,
+      "start_coordinates":"POINT(1.7297698 52.6029189)",
+      "end_coordinates":"POINT(1.7208776 52.6118063)"
+    },
+    {
+      "ride_uuid":"00221ec9-d378-43f2-981e-4a603e140fd5",
+      "imei":"867584035143895",
+      "start_timestamp":1651867184,
+      "end_timestamp":1651869041,
+      "start_coordinates":"POINT(1.7295561971085 52.606624464725)",
+      "end_coordinates":"POINT(1.7270858802337 52.613704572506)"
+    },
+    {
+      "ride_uuid":"00221f66-47f2-41e7-a6c2-986121e1211c",
+      "imei":"867584035143796",
+      "start_timestamp":1679165882,
+      "end_timestamp":1679165932,
+      "start_coordinates":"POINT(1.73318233 52.60257151)",
+      "end_coordinates":"POINT(1.7333409 52.6026308)"
+    },
+    {
+      "ride_uuid":"00224e65-da5c-4375-a6fa-0484e5bd431b",
+      "imei":"862869030786672",
+      "start_timestamp":1638988660,
+      "end_timestamp":1638989424,
+      "start_coordinates":"POINT(-0.65001061996687 53.590110278373)",
+      "end_coordinates":"POINT(-0.66133741792126 53.569077557201)"
+    },
+    {
+      "ride_uuid":"0022b354-e193-49b0-846b-c9f92a5edb8e",
+      "imei":"862869030759323",
+      "start_timestamp":1655461482,
+      "end_timestamp":1655462294,
+      "start_coordinates":"POINT(-2.8804935794351 53.214496742052)",
+      "end_coordinates":"POINT(-2.9094207032618 53.195372474724)"
+    },
+    {
+      "ride_uuid":"0022c29e-57a8-4bdc-8f9c-167c44a5b1d6",
+      "imei":"862869031339992",
+      "start_timestamp":1703548518,
+      "end_timestamp":1703548802,
+      "start_coordinates":"POINT(1.715925689044 52.608481393165)",
+      "end_coordinates":"POINT(1.7239334373819 52.60692092012)"
+    },
+    {
+      "ride_uuid":"0022d05a-c2ad-4b94-ba60-80a71fccf404",
+      "imei":"00001",
+      "start_timestamp":1631571282,
+      "end_timestamp":1631572249,
+      "start_coordinates":"POINT(1.7298950151757 52.606386137066)",
+      "end_coordinates":"POINT(1.7283498435843 52.617448728807)"
+    },
+    {
+      "ride_uuid":"0022ecf5-5da4-4da5-91f5-426100937b19",
+      "imei":"867584031418689",
+      "start_timestamp":1634732861,
+      "end_timestamp":1634733283,
+      "start_coordinates":"POINT(1.729466614422 52.606686688587)",
+      "end_coordinates":"POINT(1.7357249376762 52.595071837683)"
+    },
+    {
+      "ride_uuid":"0022ee59-7ce3-4bf6-baf1-3a9c8d051f1d",
+      "imei":"867584036178742",
+      "start_timestamp":1683906539,
+      "end_timestamp":1683908875,
+      "start_coordinates":"POINT(-2.89264374793 53.192224093572)",
+      "end_coordinates":"POINT(-2.893981555073 53.186791433306)"
+    },
+    {
+      "ride_uuid":"0023240c-ce37-4228-9b01-b23d74cf7822",
+      "imei":"867584036177371",
+      "start_timestamp":1610908594,
+      "end_timestamp":1610909765,
+      "start_coordinates":"POINT(-1.2381604084039 54.574455554902)",
+      "end_coordinates":"POINT(-1.2381894841332 54.57453932485)"
+    },
+    {
+      "ride_uuid":"002363d6-4816-400a-b158-2d2a5815ffab",
+      "imei":"867584036157555",
+      "start_timestamp":1684176905,
+      "end_timestamp":1684177783,
+      "start_coordinates":"POINT(-2.8912875428823 53.188584046488)",
+      "end_coordinates":"POINT(-2.8978335127866 53.195904594245)"
+    },
+    {
+      "ride_uuid":"0023836e-d434-43d9-b742-36aaff6376d0",
+      "imei":"867584035481097",
+      "start_timestamp":1632170863,
+      "end_timestamp":1632171888,
+      "start_coordinates":"POINT(1.7199716666667 52.599025)",
+      "end_coordinates":"POINT(1.7199582 52.5990277)"
+    },
+    {
+      "ride_uuid":"0023a869-f9aa-4d65-9a90-5272966a6f9f",
+      "imei":"867584034647144",
+      "start_timestamp":1604674198,
+      "end_timestamp":1604675922,
+      "start_coordinates":"POINT(-1.07649421 54.59913755)",
+      "end_coordinates":"POINT(-1.0765134 54.5992542)"
+    },
+    {
+      "ride_uuid":"0023cb93-e0d8-4d3e-9e92-f1886b52221c",
+      "imei":"867584035977391",
+      "start_timestamp":1630687022,
+      "end_timestamp":1630687777,
+      "start_coordinates":"POINT(-3.5778081823175 54.560142201056)",
+      "end_coordinates":"POINT(-3.5866983128385 54.552383044069)"
+    },
+    {
+      "ride_uuid":"0023d8c3-3503-499c-8bd5-cc65f24aa0f7",
+      "imei":"867584035977433",
+      "start_timestamp":1623520328,
+      "end_timestamp":1623521426,
+      "start_coordinates":"POINT(-2.8848856462729 53.188358241653)",
+      "end_coordinates":"POINT(-2.901895190757 53.19237805852)"
+    },
+    {
+      "ride_uuid":"0023f2e0-12f1-4234-b02a-5c09d0ce4999",
+      "imei":"862869030463256",
+      "start_timestamp":1660036694,
+      "end_timestamp":1660037544,
+      "start_coordinates":"POINT(-2.8881501805264 53.193852699674)",
+      "end_coordinates":"POINT(-2.917282220624 53.179882456232)"
+    },
+    {
+      "ride_uuid":"0023f91a-3155-493b-a1b0-8eed644a4344",
+      "imei":"000002",
+      "start_timestamp":1632597314,
+      "end_timestamp":1632598858,
+      "start_coordinates":"POINT(1.7211393375687 52.611854326386)",
+      "end_coordinates":"POINT(1.7297488284692 52.606564807407)"
+    },
+    {
+      "ride_uuid":"0024131a-94c6-4066-924b-752a5fa5d581",
+      "imei":"867584034701271",
+      "start_timestamp":1649168934,
+      "end_timestamp":1649169424,
+      "start_coordinates":"POINT(-2.8911274485317 53.188555087012)",
+      "end_coordinates":"POINT(-2.8755844663855 53.19935856392)"
+    },
+    {
+      "ride_uuid":"0024283a-f2fd-4c3a-ac56-35a15d2ca033",
+      "imei":"867584035973630",
+      "start_timestamp":1701632806,
+      "end_timestamp":1701633099,
+      "start_coordinates":"POINT(-2.8917533862676 53.195814779558)",
+      "end_coordinates":"POINT(-2.8809209455313 53.198418165844)"
+    },
+    {
+      "ride_uuid":"00242a4e-1cbb-439d-affc-1459cd0d584b",
+      "imei":"862869030757210",
+      "start_timestamp":1631875941,
+      "end_timestamp":1631876298,
+      "start_coordinates":"POINT(-2.883796171831 53.182721822749)",
+      "end_coordinates":"POINT(-2.8876906865379 53.189311352494)"
+    },
+    {
+      "ride_uuid":"00243da6-bb83-49f4-a6e2-c3284891fc85",
+      "imei":"862869030415835",
+      "start_timestamp":1672693691,
+      "end_timestamp":1672694035,
+      "start_coordinates":"POINT(1.7121087 52.5789252)",
+      "end_coordinates":"POINT(1.7233903 52.5862416)"
+    },
+    {
+      "ride_uuid":"0024415d-ea25-4293-8b23-0d7313efc7b8",
+      "imei":"862869030794239",
+      "start_timestamp":1674819651,
+      "end_timestamp":1674819737,
+      "start_coordinates":"POINT(1.7233969923125 52.607319345747)",
+      "end_coordinates":"POINT(1.7235699082872 52.607274106089)"
+    },
+    {
+      "ride_uuid":"00247e26-45f9-4472-b662-1914d3e6df35",
+      "imei":"862869030735216",
+      "start_timestamp":1655826003,
+      "end_timestamp":1655838527,
+      "start_coordinates":"POINT(-2.8970335054063 53.198703016665)",
+      "end_coordinates":"POINT(-2.8962591127742 53.198852656742)"
+    },
+    {
+      "ride_uuid":"002487a8-e0f6-43ad-a33b-b5b0e4914769",
+      "imei":"861123050546900",
+      "start_timestamp":1617189037,
+      "end_timestamp":1617191567,
+      "start_coordinates":"POINT(-0.6545588 53.5820985)",
+      "end_coordinates":"POINT(-0.642685 53.5911983)"
+    },
+    {
+      "ride_uuid":"0024b941-5afc-4cef-a30a-94f0d7eb404c",
+      "imei":"867584034122999",
+      "start_timestamp":1595346057,
+      "end_timestamp":1595348082,
+      "start_coordinates":"POINT(-1.2160592138833 54.545418841109)",
+      "end_coordinates":"POINT(-1.2159183575895 54.545443785009)"
+    },
+    {
+      "ride_uuid":"0024cf32-2ff1-4de4-b53d-9a835a1e623b",
+      "imei":"867584035478614",
+      "start_timestamp":1672811049,
+      "end_timestamp":1672811656,
+      "start_coordinates":"POINT(1.7269781532021 52.613624864373)",
+      "end_coordinates":"POINT(1.7117280835793 52.598230923136)"
+    },
+    {
+      "ride_uuid":"0024d107-c344-46da-9282-c811ac427fa9",
+      "imei":"867584035142723",
+      "start_timestamp":1654956381,
+      "end_timestamp":1654956794,
+      "start_coordinates":"POINT(1.7271714471297 52.608178197455)",
+      "end_coordinates":"POINT(1.7295940450215 52.60648839703)"
+    },
+    {
+      "ride_uuid":"002509c4-8f99-4860-b73a-55167985f7b7",
+      "imei":"867584035143531",
+      "start_timestamp":1667501987,
+      "end_timestamp":1667502151,
+      "start_coordinates":"POINT(-0.6502491171358 53.590269591112)",
+      "end_coordinates":"POINT(-0.65015218483893 53.590162298541)"
+    },
+    {
+      "ride_uuid":"002515e5-03fb-4b2b-8a24-ca89ad34c59f",
+      "imei":"867584036167133",
+      "start_timestamp":1612541777,
+      "end_timestamp":1612544501,
+      "start_coordinates":"POINT(-1.258930646512 54.542611546288)",
+      "end_coordinates":"POINT(-1.2590198826812 54.542648848983)"
+    },
+    {
+      "ride_uuid":"00252782-3a46-438c-852b-c15e71ae06f0",
+      "imei":"862869030795475",
+      "start_timestamp":1635197300,
+      "end_timestamp":1635197807,
+      "start_coordinates":"POINT(1.723824117039 52.586012806882)",
+      "end_coordinates":"POINT(1.7088721825678 52.580907824762)"
+    },
+    {
+      "ride_uuid":"002564b1-9c86-47f9-a3f2-d481fe368929",
+      "imei":"867584035168801",
+      "start_timestamp":1612014094,
+      "end_timestamp":1612018617,
+      "start_coordinates":"POINT(-1.2374808240163 54.711450286408)",
+      "end_coordinates":"POINT(-1.2379146688355 54.711372598522)"
+    },
+    {
+      "ride_uuid":"00259b0e-a8b6-4ba1-b3be-aa366d78ed87",
+      "imei":"867584036156656",
+      "start_timestamp":1623602984,
+      "end_timestamp":1623603595,
+      "start_coordinates":"POINT(-2.9164658675535 53.173252155887)",
+      "end_coordinates":"POINT(-2.8874586611985 53.184042630106)"
+    },
+    {
+      "ride_uuid":"0025b063-9f6b-4ce6-90df-53a82ed44887",
+      "imei":"862869030717784",
+      "start_timestamp":1658599045,
+      "end_timestamp":1658601056,
+      "start_coordinates":"POINT(1.7272686772065 52.613688753967)",
+      "end_coordinates":"POINT(1.7319940128925 52.618276992094)"
+    },
+    {
+      "ride_uuid":"0025c3a8-cb86-4173-83f3-9f965efef9f4",
+      "imei":"867584031359859",
+      "start_timestamp":1673449320,
+      "end_timestamp":1673450415,
+      "start_coordinates":"POINT(1.7096142 52.5751292)",
+      "end_coordinates":"POINT(1.7096462 52.5750927)"
+    },
+    {
+      "ride_uuid":"0025d030-4278-4097-88ab-7dffb7ee3ccc",
+      "imei":"867584036167133",
+      "start_timestamp":1688747839,
+      "end_timestamp":1688748224,
+      "start_coordinates":"POINT(-2.880327 53.1962701)",
+      "end_coordinates":"POINT(-2.8653879 53.1903096)"
+    },
+    {
+      "ride_uuid":"0025d209-837b-498c-991d-94b30280b98c",
+      "imei":"862869030789874",
+      "start_timestamp":1640427078,
+      "end_timestamp":1640427342,
+      "start_coordinates":"POINT(1.7287977490524 52.581383883966)",
+      "end_coordinates":"POINT(1.7256308016353 52.590342446284)"
+    },
+    {
+      "ride_uuid":"0025d94f-b201-4c6d-8950-f2f708122c90",
+      "imei":"867584035145998",
+      "start_timestamp":1619269347,
+      "end_timestamp":1619270613,
+      "start_coordinates":"POINT(1.7355262813994 52.594732625026)",
+      "end_coordinates":"POINT(1.7283664845499 52.617485821985)"
+    },
+    {
+      "ride_uuid":"0025e081-bdf7-4ade-8ef0-c4a3d14c13f2",
+      "imei":"862869031334399",
+      "start_timestamp":1690117084,
+      "end_timestamp":1690120075,
+      "start_coordinates":"POINT(1.7298556 52.6029737)",
+      "end_coordinates":"POINT(1.7277521 52.6082646)"
+    },
+    {
+      "ride_uuid":"0025edfe-fe5d-49e4-b975-be21adadbc4a",
+      "imei":"862869031348373",
+      "start_timestamp":1702294682,
+      "end_timestamp":1702295286,
+      "start_coordinates":"POINT(1.7224558536738 52.574801886124)",
+      "end_coordinates":"POINT(1.7005146016341 52.5866312149)"
+    },
+    {
+      "ride_uuid":"0025ee0d-1f2a-4ceb-b822-54e35c5c0889",
+      "imei":"862869030759323",
+      "start_timestamp":1638990856,
+      "end_timestamp":1638991197,
+      "start_coordinates":"POINT(-2.8863204976421 53.195719622576)",
+      "end_coordinates":"POINT(-2.8961352110715 53.199030683202)"
+    },
+    {
+      "ride_uuid":"00260693-df4c-422f-86b8-584d8a7d6277",
+      "imei":"867584035168801",
+      "start_timestamp":1646581559,
+      "end_timestamp":1646582206,
+      "start_coordinates":"POINT(-2.8881424588653 53.19378144396)",
+      "end_coordinates":"POINT(-2.8928239369819 53.194901156421)"
+    },
+    {
+      "ride_uuid":"0026151c-684c-4ff1-af77-1bbbefd2942c",
+      "imei":"862869031340115",
+      "start_timestamp":1692942437,
+      "end_timestamp":1692943383,
+      "start_coordinates":"POINT(1.7355286078857 52.595117101083)",
+      "end_coordinates":"POINT(1.7028587055509 52.591216257452)"
+    },
+    {
+      "ride_uuid":"00262a1c-d01a-41fc-8534-9f22bed27c96",
+      "imei":"867584031418689",
+      "start_timestamp":1620517691,
+      "end_timestamp":1620524406,
+      "start_coordinates":"POINT(-0.74897326743537 52.043246863438)",
+      "end_coordinates":"POINT(-0.74894120391628 52.043147504968)"
+    },
+    {
+      "ride_uuid":"00264919-9724-475c-b9d2-c28881565349",
+      "imei":"867584034672068",
+      "start_timestamp":1640880771,
+      "end_timestamp":1640881426,
+      "start_coordinates":"POINT(1.7276251044636 52.578479599799)",
+      "end_coordinates":"POINT(1.7257401777587 52.590240512264)"
+    },
+    {
+      "ride_uuid":"0026803d-438b-4d5e-b3ae-bdd0bda66650",
+      "imei":"862869031334399",
+      "start_timestamp":1696086778,
+      "end_timestamp":1696087504,
+      "start_coordinates":"POINT(1.7152684270865 52.604751469566)",
+      "end_coordinates":"POINT(1.7281637641874 52.619907869359)"
+    },
+    {
+      "ride_uuid":"00268143-7d71-4d11-a4af-63a8d96efce1",
+      "imei":"862869030433945",
+      "start_timestamp":1694106214,
+      "end_timestamp":1694106672,
+      "start_coordinates":"POINT(-2.8651038535643 53.190042598834)",
+      "end_coordinates":"POINT(-2.8916899580535 53.195830746603)"
+    },
+    {
+      "ride_uuid":"0026b62a-8d75-4e4f-839f-ad51616a3b4b",
+      "imei":"867584036164007",
+      "start_timestamp":1629131943,
+      "end_timestamp":1629132439,
+      "start_coordinates":"POINT(-2.8883292123797 53.193722827728)",
+      "end_coordinates":"POINT(-2.8706738445935 53.207358755221)"
+    },
+    {
+      "ride_uuid":"0026beca-c063-49f9-a159-e69acd3b7176",
+      "imei":"861123050550886",
+      "start_timestamp":1677440110,
+      "end_timestamp":1677440958,
+      "start_coordinates":"POINT(-2.8802597243366 53.196401721847)",
+      "end_coordinates":"POINT(-2.917275477476 53.179901806924)"
+    },
+    {
+      "ride_uuid":"0026d72e-ea8a-4802-8d00-88968726c23b",
+      "imei":"867584036153216",
+      "start_timestamp":1629728121,
+      "end_timestamp":1629728697,
+      "start_coordinates":"POINT(1.7295798 52.6065195)",
+      "end_coordinates":"POINT(1.7357635 52.5950857)"
+    },
+    {
+      "ride_uuid":"00271502-cca7-4498-b8b2-ec3a091d0e56",
+      "imei":"867584031356210",
+      "start_timestamp":1623616181,
+      "end_timestamp":1623620138,
+      "start_coordinates":"POINT(-1.238125 54.574525)",
+      "end_coordinates":"POINT(-1.23329 54.57042)"
+    },
+    {
+      "ride_uuid":"00271c1c-0807-4df9-be28-17489cfc3b0d",
+      "imei":"862869031334068",
+      "start_timestamp":1704977632,
+      "end_timestamp":1704978408,
+      "start_coordinates":"POINT(1.7199739906953 52.59899846283)",
+      "end_coordinates":"POINT(1.7204263192328 52.570769540759)"
+    },
+    {
+      "ride_uuid":"00276856-5e49-4b07-ab9e-e519320d1339",
+      "imei":"862869031346245",
+      "start_timestamp":1697404338,
+      "end_timestamp":1697404658,
+      "start_coordinates":"POINT(1.7124626072824 52.578858768443)",
+      "end_coordinates":"POINT(1.6957361361779 52.575285337003)"
+    },
+    {
+      "ride_uuid":"0027a8fa-81c5-48e1-b961-521d4c2efa76",
+      "imei":"867584036182678",
+      "start_timestamp":1700594440,
+      "end_timestamp":1700594948,
+      "start_coordinates":"POINT(-2.8929516 53.1949732)",
+      "end_coordinates":"POINT(-2.8972096 53.2091399)"
+    },
+    {
+      "ride_uuid":"0027cbf6-a4e4-4abd-a71a-6644fc7fa8af",
+      "imei":"867584031352052",
+      "start_timestamp":1620489261,
+      "end_timestamp":1620490289,
+      "start_coordinates":"POINT(1.7231479023392 52.594876182725)",
+      "end_coordinates":"POINT(1.7226458618803 52.594895678442)"
+    },
+    {
+      "ride_uuid":"002828cf-60c1-4e64-9cf2-238aae70b038",
+      "imei":"861123050554293",
+      "start_timestamp":1630762173,
+      "end_timestamp":1630762544,
+      "start_coordinates":"POINT(-2.9081889302293 53.178673924613)",
+      "end_coordinates":"POINT(-2.8939140780815 53.187140202311)"
+    },
+    {
+      "ride_uuid":"00282915-37a6-45dd-a2cb-ff2da7c8d3e7",
+      "imei":"867584036157845",
+      "start_timestamp":1630249845,
+      "end_timestamp":1630251032,
+      "start_coordinates":"POINT(1.7375346135775 52.608704183558)",
+      "end_coordinates":"POINT(1.7391872964256 52.61944236629)"
+    },
+    {
+      "ride_uuid":"00286f57-b5cc-4bb5-9564-21f565dcb18c",
+      "imei":"867584035181713",
+      "start_timestamp":1625339954,
+      "end_timestamp":1625341361,
+      "start_coordinates":"POINT(-1.2167501728993 54.694483266263)",
+      "end_coordinates":"POINT(-1.2211428790614 54.698811723083)"
+    },
+    {
+      "ride_uuid":"002884e6-29be-4cbb-8356-fbafda78717c",
+      "imei":"862869030497320",
+      "start_timestamp":1652815231,
+      "end_timestamp":1652819184,
+      "start_coordinates":"POINT(-1.2044473387582 54.534689176899)",
+      "end_coordinates":"POINT(-1.1933060128287 54.546950845658)"
+    },
+    {
+      "ride_uuid":"00288c44-2dc2-4f60-ab6d-8f4cedf3c257",
+      "imei":"862869031334753",
+      "start_timestamp":1705482022,
+      "end_timestamp":1705483334,
+      "start_coordinates":"POINT(1.7093677 52.5722339)",
+      "end_coordinates":"POINT(1.7251483 52.6096655)"
+    },
+    {
+      "ride_uuid":"0028ec72-f05c-40ef-8969-e3e0f88b3bd0",
+      "imei":"867584036176944",
+      "start_timestamp":1660205381,
+      "end_timestamp":1660207221,
+      "start_coordinates":"POINT(-2.8961230821543 53.199058567011)",
+      "end_coordinates":"POINT(-2.9302394614201 53.19539769209)"
+    },
+    {
+      "ride_uuid":"0028fc62-135f-453d-87e9-0992c22880a6",
+      "imei":"862869030495902",
+      "start_timestamp":1671733005,
+      "end_timestamp":1671733563,
+      "start_coordinates":"POINT(1.728004859762 52.579326639001)",
+      "end_coordinates":"POINT(1.7288137972371 52.581200120088)"
+    },
+    {
+      "ride_uuid":"002919a0-3e58-4c7d-825a-e8e5aa4705e6",
+      "imei":"867584036160146",
+      "start_timestamp":1630759151,
+      "end_timestamp":1630760405,
+      "start_coordinates":"POINT(-2.9164713 53.1731631)",
+      "end_coordinates":"POINT(-2.89142518 53.18861196)"
+    },
+    {
+      "ride_uuid":"002922ba-11cc-4209-bf0c-eb076c1e908d",
+      "imei":"862869030415405",
+      "start_timestamp":1634485000,
+      "end_timestamp":1634485810,
+      "start_coordinates":"POINT(-2.8737831824191 53.206273662352)",
+      "end_coordinates":"POINT(-2.9093458540423 53.195400314438)"
+    },
+    {
+      "ride_uuid":"00293812-8323-4fa1-8dd2-9ee0a08d5882",
+      "imei":"862869030480441",
+      "start_timestamp":1637846974,
+      "end_timestamp":1637847796,
+      "start_coordinates":"POINT(-0.65457367 53.58204826)",
+      "end_coordinates":"POINT(-0.6773627 53.5647535)"
+    },
+    {
+      "ride_uuid":"0029686d-d01e-479f-9f4f-9e4e478f3dae",
+      "imei":"862869030462886",
+      "start_timestamp":1620743874,
+      "end_timestamp":1620744557,
+      "start_coordinates":"POINT(-0.66222378030221 53.579179638167)",
+      "end_coordinates":"POINT(-0.64265582720454 53.591244638734)"
+    },
+    {
+      "ride_uuid":"00296ce2-2fe4-49d0-bc1f-cf0eb234a02f",
+      "imei":"867584034653951",
+      "start_timestamp":1636291286,
+      "end_timestamp":1636292473,
+      "start_coordinates":"POINT(-0.75425831488841 52.033242965948)",
+      "end_coordinates":"POINT(-0.75402851722685 52.033076861092)"
+    },
+    {
+      "ride_uuid":"00297609-095a-435d-91b8-5da8822649ae",
+      "imei":"862869030415595",
+      "start_timestamp":1654793973,
+      "end_timestamp":1654794275,
+      "start_coordinates":"POINT(-1.2330774438703 54.570256332368)",
+      "end_coordinates":"POINT(-1.2274523657317 54.575836349652)"
+    },
+    {
+      "ride_uuid":"00299ac8-a0f1-41d5-8f3d-945e74df6d8a",
+      "imei":"867584035498034",
+      "start_timestamp":1625983994,
+      "end_timestamp":1625984957,
+      "start_coordinates":"POINT(-2.1345697330202 52.83207493055)",
+      "end_coordinates":"POINT(-2.0983275635403 52.79476849412)"
+    },
+    {
+      "ride_uuid":"0029ac6d-f9c7-41e0-8b96-74251b21dceb",
+      "imei":"862869030486539",
+      "start_timestamp":1651331585,
+      "end_timestamp":1651332696,
+      "start_coordinates":"POINT(-2.8802594782342 53.19641315204)",
+      "end_coordinates":"POINT(-2.8912901569282 53.188542380566)"
+    },
+    {
+      "ride_uuid":"0029b1f5-1de4-4bb6-9e41-277913ba3997",
+      "imei":"862869030781699",
+      "start_timestamp":1652218441,
+      "end_timestamp":1652219444,
+      "start_coordinates":"POINT(1.7324243711663 52.602612397346)",
+      "end_coordinates":"POINT(1.7251787043703 52.609661309702)"
+    },
+    {
+      "ride_uuid":"0029e922-6655-49c9-96f0-aebae6f8c889",
+      "imei":"867584031415974",
+      "start_timestamp":1693121114,
+      "end_timestamp":1693123469,
+      "start_coordinates":"POINT(-2.8841406 53.183179)",
+      "end_coordinates":"POINT(-2.888152 53.193795)"
+    },
+    {
+      "ride_uuid":"0029f373-fa6a-4b68-afe6-1553cb73d91c",
+      "imei":"862869030725761",
+      "start_timestamp":1631889758,
+      "end_timestamp":1631892100,
+      "start_coordinates":"POINT(-2.8876447373771 53.189311108315)",
+      "end_coordinates":"POINT(-2.8803038486607 53.196354715927)"
+    },
+    {
+      "ride_uuid":"002a0e9f-106c-4b67-a160-f827ba91b667",
+      "imei":"862869030427616",
+      "start_timestamp":1655312371,
+      "end_timestamp":1655312964,
+      "start_coordinates":"POINT(-1.2161513766384 54.543237612949)",
+      "end_coordinates":"POINT(-1.2225060270314 54.557101340212)"
+    },
+    {
+      "ride_uuid":"002a341b-3f68-48ef-8f2b-71cc5853c296",
+      "imei":"862869030434422",
+      "start_timestamp":1645177539,
+      "end_timestamp":1645177886,
+      "start_coordinates":"POINT(1.7332165363006 52.594675504634)",
+      "end_coordinates":"POINT(1.7295768857018 52.606643512894)"
+    },
+    {
+      "ride_uuid":"002a3572-195d-45c0-b93c-2425c4c275c7",
+      "imei":"867584036154347",
+      "start_timestamp":1692458464,
+      "end_timestamp":1692459086,
+      "start_coordinates":"POINT(-2.9170134477344 53.179821688731)",
+      "end_coordinates":"POINT(-2.8913054636959 53.188551782829)"
+    },
+    {
+      "ride_uuid":"002a5e92-5bf1-4a7b-a63d-ec6315c753cf",
+      "imei":"867584035144935",
+      "start_timestamp":1642575579,
+      "end_timestamp":1642575935,
+      "start_coordinates":"POINT(-2.8978071930171 53.195971636115)",
+      "end_coordinates":"POINT(-2.8802516759409 53.196302931303)"
+    },
+    {
+      "ride_uuid":"002aa37d-f720-4621-956f-8ce3c4fe2f63",
+      "imei":"867584035483515",
+      "start_timestamp":1673106674,
+      "end_timestamp":1673107741,
+      "start_coordinates":"POINT(1.7311042105834 52.560673587396)",
+      "end_coordinates":"POINT(1.7311113848978 52.560663745714)"
+    },
+    {
+      "ride_uuid":"002b07a2-f217-41b6-9071-b5636dbd7af1",
+      "imei":"867584036155500",
+      "start_timestamp":1629806825,
+      "end_timestamp":1629807971,
+      "start_coordinates":"POINT(1.7276496496825 52.608132820816)",
+      "end_coordinates":"POINT(1.737606343608 52.608791753893)"
+    },
+    {
+      "ride_uuid":"002b120d-6cb0-4f6e-8c87-28a73bad4336",
+      "imei":"862869030765833",
+      "start_timestamp":1647847508,
+      "end_timestamp":1647848025,
+      "start_coordinates":"POINT(-0.65566139776128 53.575348042189)",
+      "end_coordinates":"POINT(-0.65009485694192 53.59021729409)"
+    },
+    {
+      "ride_uuid":"002b2735-0958-445f-bf34-a8e71ddd9c44",
+      "imei":"867584035143853",
+      "start_timestamp":1623476204,
+      "end_timestamp":1623477283,
+      "start_coordinates":"POINT(-0.75418136464709 52.04532021703)",
+      "end_coordinates":"POINT(-0.71422325604987 52.039235521821)"
+    },
+    {
+      "ride_uuid":"002b3c89-9e4c-46b7-b5af-9afdd4a45118",
+      "imei":"862869030493568",
+      "start_timestamp":1670426236,
+      "end_timestamp":1670426613,
+      "start_coordinates":"POINT(-2.8779709321546 53.192694065724)",
+      "end_coordinates":"POINT(-2.8597311929571 53.195924744076)"
+    },
+    {
+      "ride_uuid":"002b5c49-aa00-4e71-b90d-413d60deae82",
+      "imei":"862869030467554",
+      "start_timestamp":1663285281,
+      "end_timestamp":1663285652,
+      "start_coordinates":"POINT(1.7217228756 52.612370470646)",
+      "end_coordinates":"POINT(1.7284279370372 52.619994758062)"
+    },
+    {
+      "ride_uuid":"002b7d80-acef-4e8a-a395-f12c2653de54",
+      "imei":"867584036161920",
+      "start_timestamp":1628341589,
+      "end_timestamp":1628341812,
+      "start_coordinates":"POINT(-0.66140456332955 53.57930915871)",
+      "end_coordinates":"POINT(-0.6613791 53.5792463)"
+    },
+    {
+      "ride_uuid":"002b96e7-e655-46dc-b6cb-2f5ebd673ffa",
+      "imei":"867584034672068",
+      "start_timestamp":1623352203,
+      "end_timestamp":1623353332,
+      "start_coordinates":"POINT(1.7213428201912 52.611786801473)",
+      "end_coordinates":"POINT(1.7296297649688 52.606542682797)"
+    },
+    {
+      "ride_uuid":"002ba36c-8193-4024-b3cf-90a828c975a2",
+      "imei":"867584034653845",
+      "start_timestamp":1595607996,
+      "end_timestamp":1595611203,
+      "start_coordinates":"POINT(-1.2380028119649 54.574453070273)",
+      "end_coordinates":"POINT(-1.2381105311226 54.574515894106)"
+    },
+    {
+      "ride_uuid":"002bbcca-babb-43cc-b14c-909d4d589eec",
+      "imei":"867584035729461",
+      "start_timestamp":1628692409,
+      "end_timestamp":1628693632,
+      "start_coordinates":"POINT(1.7375602613679 52.608815868623)",
+      "end_coordinates":"POINT(1.7363974 52.602194)"
+    },
+    {
+      "ride_uuid":"002bd225-4783-4798-96b9-35360cf4a5fa",
+      "imei":"867584036157282",
+      "start_timestamp":1632599979,
+      "end_timestamp":1632600476,
+      "start_coordinates":"POINT(-2.8912325534818 53.188485332286)",
+      "end_coordinates":"POINT(-2.8940269 53.2038471)"
+    },
+    {
+      "ride_uuid":"002bd70a-bc71-48fa-af5b-212ad12a9233",
+      "imei":"867584036157555",
+      "start_timestamp":1615472083,
+      "end_timestamp":1615472585,
+      "start_coordinates":"POINT(-2.0980492529188 52.794364162848)",
+      "end_coordinates":"POINT(-2.1218835940345 52.803924817395)"
+    },
+    {
+      "ride_uuid":"002bf683-77c3-42c6-84aa-a9a51d017aba",
+      "imei":"867584035143796",
+      "start_timestamp":1625428763,
+      "end_timestamp":1625431305,
+      "start_coordinates":"POINT(1.7207773981214 52.605794036732)",
+      "end_coordinates":"POINT(1.7205796479082 52.605751634353)"
+    },
+    {
+      "ride_uuid":"002c0aba-009f-407a-a504-99a5238c728e",
+      "imei":"862869030476787",
+      "start_timestamp":1633953491,
+      "end_timestamp":1633954829,
+      "start_coordinates":"POINT(-1.2360731213491 54.579581210221)",
+      "end_coordinates":"POINT(-1.2359017705535 54.579588357645)"
+    },
+    {
+      "ride_uuid":"002c0cfd-6b38-4fb3-8d75-c755236d98ce",
+      "imei":"867584036159056",
+      "start_timestamp":1669832113,
+      "end_timestamp":1669832958,
+      "start_coordinates":"POINT(-2.9302143 53.1953437)",
+      "end_coordinates":"POINT(-2.8923833 53.1922456)"
+    },
+    {
+      "ride_uuid":"002c423c-1504-4388-8563-725bfe6f9618",
+      "imei":"867584036173669",
+      "start_timestamp":1628706057,
+      "end_timestamp":1628706918,
+      "start_coordinates":"POINT(-2.9174358148613 53.179705148412)",
+      "end_coordinates":"POINT(-2.9172994033757 53.179939508589)"
+    },
+    {
+      "ride_uuid":"002c93c8-f0f4-4a88-afab-84a56595b133",
+      "imei":"862869031352698",
+      "start_timestamp":1696755905,
+      "end_timestamp":1696756320,
+      "start_coordinates":"POINT(1.7205943076991 52.605714280792)",
+      "end_coordinates":"POINT(1.7120986407916 52.598153652976)"
+    },
+    {
+      "ride_uuid":"002cf9fc-b892-4e9b-9857-c3338326caa2",
+      "imei":"867584035140001",
+      "start_timestamp":1659620212,
+      "end_timestamp":1659621535,
+      "start_coordinates":"POINT(-0.7487797 52.0431506)",
+      "end_coordinates":"POINT(-0.7898815 52.0260581)"
+    },
+    {
+      "ride_uuid":"002d046a-6195-4d9b-9ed4-d0333a1c280e",
+      "imei":"867584035486773",
+      "start_timestamp":1624611846,
+      "end_timestamp":1624612579,
+      "start_coordinates":"POINT(-2.0990389644659 52.815410264139)",
+      "end_coordinates":"POINT(-2.1219013941988 52.804016613351)"
+    },
+    {
+      "ride_uuid":"002d47c2-f093-4035-af88-ffc602845653",
+      "imei":"867584036155427",
+      "start_timestamp":1622277638,
+      "end_timestamp":1622278265,
+      "start_coordinates":"POINT(1.7364443340003 52.602205072233)",
+      "end_coordinates":"POINT(1.73914459077 52.619400483935)"
+    },
+    {
+      "ride_uuid":"002d573a-1b3d-4857-871d-0caee5060191",
+      "imei":"867584034645890",
+      "start_timestamp":1600193380,
+      "end_timestamp":1600194162,
+      "start_coordinates":"POINT(-1.2408900826207 54.56518268851)",
+      "end_coordinates":"POINT(-1.2408925051254 54.565065881859)"
+    },
+    {
+      "ride_uuid":"002dd5f7-aecc-4ba6-a6a6-3c81f1effd12",
+      "imei":"862869031325462",
+      "start_timestamp":1698514934,
+      "end_timestamp":1698517037,
+      "start_coordinates":"POINT(1.725242077823 52.595961520987)",
+      "end_coordinates":"POINT(1.7198952617585 52.599070871298)"
+    },
+    {
+      "ride_uuid":"002dddf2-1c5f-407e-b83e-8d6f02f3e2bb",
+      "imei":"867584034650437",
+      "start_timestamp":1627924790,
+      "end_timestamp":1627925915,
+      "start_coordinates":"POINT(-1.2331474873717 54.549779431809)",
+      "end_coordinates":"POINT(-1.2329430252533 54.549788932533)"
+    },
+    {
+      "ride_uuid":"002dfc72-6d2d-47c0-ad5e-49b346abbb57",
+      "imei":"861123050551249",
+      "start_timestamp":1627942432,
+      "end_timestamp":1627944481,
+      "start_coordinates":"POINT(1.7381906774119 52.620113937337)",
+      "end_coordinates":"POINT(1.7389346706083 52.619701735105)"
+    },
+    {
+      "ride_uuid":"002e0231-a276-4db6-90a0-4529bae59c2c",
+      "imei":"862869030788520",
+      "start_timestamp":1644435362,
+      "end_timestamp":1644435900,
+      "start_coordinates":"POINT(-0.64778457395793 53.590930402329)",
+      "end_coordinates":"POINT(-0.64779058267182 53.590924435566)"
+    },
+    {
+      "ride_uuid":"002e43d1-d98b-43da-8b01-3663fe72976a",
+      "imei":"867584031418689",
+      "start_timestamp":1627917256,
+      "end_timestamp":1627917536,
+      "start_coordinates":"POINT(1.7365546473395 52.602193346391)",
+      "end_coordinates":"POINT(1.7296023531675 52.606549119057)"
+    },
+    {
+      "ride_uuid":"002e5132-73e1-4d25-908a-d8db3ba7d901",
+      "imei":"867584031354074",
+      "start_timestamp":1626010300,
+      "end_timestamp":1626010819,
+      "start_coordinates":"POINT(1.7307760368549 52.569572784731)",
+      "end_coordinates":"POINT(1.7269823107199 52.556713480052)"
+    },
+    {
+      "ride_uuid":"002e5445-df81-4004-a033-fccc2631659a",
+      "imei":"867584036157845",
+      "start_timestamp":1636297828,
+      "end_timestamp":1636298872,
+      "start_coordinates":"POINT(1.7297852191241 52.605744928094)",
+      "end_coordinates":"POINT(1.7121404073436 52.578868097149)"
+    },
+    {
+      "ride_uuid":"002e6728-bfb4-4750-a149-d4b5734892fb",
+      "imei":"867584035975304",
+      "start_timestamp":1639518374,
+      "end_timestamp":1639519518,
+      "start_coordinates":"POINT(-1.2123100258282 54.539785176584)",
+      "end_coordinates":"POINT(-1.2163799 54.5431883)"
+    },
+    {
+      "ride_uuid":"002e68aa-9d76-4139-ab52-ebf6df416165",
+      "imei":"867584031207538",
+      "start_timestamp":1657998977,
+      "end_timestamp":1657999763,
+      "start_coordinates":"POINT(-2.8555142506957 53.203030424193)",
+      "end_coordinates":"POINT(-2.8596791 53.1959153)"
+    },
+    {
+      "ride_uuid":"002e90f6-1a41-44a0-a70c-20aab56ba679",
+      "imei":"867584035483424",
+      "start_timestamp":1679429916,
+      "end_timestamp":1679430435,
+      "start_coordinates":"POINT(-2.9190758 53.1899897)",
+      "end_coordinates":"POINT(-2.8925085 53.1921247)"
+    },
+    {
+      "ride_uuid":"002ea5d7-2f5b-4bc8-83c5-2567ae3c004a",
+      "imei":"867584031359750",
+      "start_timestamp":1627297244,
+      "end_timestamp":1627297827,
+      "start_coordinates":"POINT(-2.9172462030395 53.179821450638)",
+      "end_coordinates":"POINT(-2.8913746388096 53.188597127873)"
+    },
+    {
+      "ride_uuid":"002eb1b1-9eab-493b-b4fe-c685963f0202",
+      "imei":"867584031354047",
+      "start_timestamp":1609869067,
+      "end_timestamp":1609869984,
+      "start_coordinates":"POINT(-2.8802619042519 53.196342998597)",
+      "end_coordinates":"POINT(-2.8803904328672 53.19625645293)"
+    },
+    {
+      "ride_uuid":"002eb3d3-206d-4be7-894d-f0f02673cc0c",
+      "imei":"867584035143697",
+      "start_timestamp":1657312861,
+      "end_timestamp":1657316449,
+      "start_coordinates":"POINT(-3.5866838414255 54.552471907861)",
+      "end_coordinates":"POINT(-3.5867150998445 54.552419110219)"
+    },
+    {
+      "ride_uuid":"002ec080-218a-42fb-8367-b7b316afeb9e",
+      "imei":"862869030415405",
+      "start_timestamp":1657462875,
+      "end_timestamp":1657464547,
+      "start_coordinates":"POINT(-2.8843015068683 53.188271494303)",
+      "end_coordinates":"POINT(-2.885005975535 53.191548031387)"
+    },
+    {
+      "ride_uuid":"002ec5a7-dd44-419e-9985-3e558ff6885d",
+      "imei":"867584036164353",
+      "start_timestamp":1624288781,
+      "end_timestamp":1624289087,
+      "start_coordinates":"POINT(-2.1154971803525 52.805278091887)",
+      "end_coordinates":"POINT(-2.1131204781945 52.810296354868)"
+    },
+    {
+      "ride_uuid":"002ef23c-d9e5-46ac-8fe3-7bb55ca1bd4e",
+      "imei":"867584036181464",
+      "start_timestamp":1597075347,
+      "end_timestamp":1597076580,
+      "start_coordinates":"POINT(-1.2372046085257 54.573928401179)",
+      "end_coordinates":"POINT(-1.2381709646445 54.574505081451)"
+    },
+    {
+      "ride_uuid":"002f113f-0bf6-4aa8-8157-f8419d6971c2",
+      "imei":"8675840361550001",
+      "start_timestamp":1644076536,
+      "end_timestamp":1644076757,
+      "start_coordinates":"POINT(-2.885038 53.19153387)",
+      "end_coordinates":"POINT(-2.8782486 53.19265)"
+    },
+    {
+      "ride_uuid":"002f1536-8089-486a-aa4a-8b2f71c8d64e",
+      "imei":"867584036156383",
+      "start_timestamp":1620494004,
+      "end_timestamp":1620494635,
+      "start_coordinates":"POINT(-1.2367040562259 54.670992195919)",
+      "end_coordinates":"POINT(-1.2146637805761 54.673550112858)"
+    },
+    {
+      "ride_uuid":"002f4aca-4db0-4a95-8779-73e8615bbbb4",
+      "imei":"867584035970438",
+      "start_timestamp":1699001829,
+      "end_timestamp":1699002185,
+      "start_coordinates":"POINT(-2.9159399 53.2073348)",
+      "end_coordinates":"POINT(-2.8971957 53.2090576)"
+    },
+    {
+      "ride_uuid":"002f8503-5047-46f7-bca7-1774d81888d9",
+      "imei":"867584034650437",
+      "start_timestamp":1623510902,
+      "end_timestamp":1623511671,
+      "start_coordinates":"POINT(1.7265999213425 52.556394819186)",
+      "end_coordinates":"POINT(1.7309514887544 52.569552477192)"
+    },
+    {
+      "ride_uuid":"002f9962-b065-4dc6-9a35-7eb2c6dfef86",
+      "imei":"867584031313526",
+      "start_timestamp":1626297882,
+      "end_timestamp":1626300903,
+      "start_coordinates":"POINT(1.7002319158634 52.586601072869)",
+      "end_coordinates":"POINT(1.7005336 52.5866586)"
+    },
+    {
+      "ride_uuid":"002fba13-0933-4553-806e-f4e5324f4b0c",
+      "imei":"8675840361550001",
+      "start_timestamp":1611061243,
+      "end_timestamp":1611091990,
+      "start_coordinates":"POINT(-2.8924968494492 53.192375342226)",
+      "end_coordinates":"POINT(-2.8975268202312 53.196095504508)"
+    },
+    {
+      "ride_uuid":"002fc61f-ec23-4b0f-9b08-4e7b10201951",
+      "imei":"867584035142475",
+      "start_timestamp":1682544416,
+      "end_timestamp":1682545483,
+      "start_coordinates":"POINT(1.7225396 52.5747903)",
+      "end_coordinates":"POINT(1.7227603 52.5566026)"
+    },
+    {
+      "ride_uuid":"0030097f-a771-4754-a70c-4eb20b8b3e7f",
+      "imei":"867584036168966",
+      "start_timestamp":1607094320,
+      "end_timestamp":1607094589,
+      "start_coordinates":"POINT(-2.1161833238628 52.804952652511)",
+      "end_coordinates":"POINT(-2.1165124504889 52.805056953653)"
+    },
+    {
+      "ride_uuid":"00300c44-bbe8-45df-8b98-cba8af1f3b5e",
+      "imei":"867584035166656",
+      "start_timestamp":1683740226,
+      "end_timestamp":1683740790,
+      "start_coordinates":"POINT(-2.9172926489291 53.179938322914)",
+      "end_coordinates":"POINT(-2.8939545457972 53.186733541027)"
+    },
+    {
+      "ride_uuid":"003037a2-c604-4e4a-83ec-9389ae089f5b",
+      "imei":"867584036157845",
+      "start_timestamp":1654257012,
+      "end_timestamp":1654257874,
+      "start_coordinates":"POINT(1.7368182724991 52.608801793795)",
+      "end_coordinates":"POINT(1.7356942334289 52.595044963802)"
+    },
+    {
+      "ride_uuid":"00303fe8-de32-4363-84d5-854d34c54e33",
+      "imei":"862869031325462",
+      "start_timestamp":1700487206,
+      "end_timestamp":1700488408,
+      "start_coordinates":"POINT(1.7010717 52.5664383)",
+      "end_coordinates":"POINT(1.7011214 52.5664382)"
+    },
+    {
+      "ride_uuid":"0030458d-a6e4-45ac-9f6b-1ea7d579214b",
+      "imei":"862869030767565",
+      "start_timestamp":1634074871,
+      "end_timestamp":1634077194,
+      "start_coordinates":"POINT(-1.2381912891176 54.574494550432)",
+      "end_coordinates":"POINT(-1.2382142823058 54.574522177292)"
+    },
+    {
+      "ride_uuid":"00305350-4006-4136-804c-46fa9c988d4b",
+      "imei":"867584035977391",
+      "start_timestamp":1621636878,
+      "end_timestamp":1621637491,
+      "start_coordinates":"POINT(1.7296006976797 52.606543050357)",
+      "end_coordinates":"POINT(1.7250203917737 52.597271640029)"
+    },
+    {
+      "ride_uuid":"00307dd9-1109-4b47-8ecf-8ba5a2c247b2",
+      "imei":"862869030750488",
+      "start_timestamp":1643832770,
+      "end_timestamp":1643833799,
+      "start_coordinates":"POINT(1.7296721041219 52.602967377801)",
+      "end_coordinates":"POINT(1.7296329365308 52.602955589853)"
+    },
+    {
+      "ride_uuid":"00309057-fa7a-42da-af53-89a55867b272",
+      "imei":"867584035143895",
+      "start_timestamp":1652482483,
+      "end_timestamp":1652485856,
+      "start_coordinates":"POINT(1.736440658571 52.602233877455)",
+      "end_coordinates":"POINT(1.736462036619 52.60221882432)"
+    },
+    {
+      "ride_uuid":"0030c3e3-ae54-4de8-a72c-cb5d3ef2d725",
+      "imei":"862869030724871",
+      "start_timestamp":1658498909,
+      "end_timestamp":1658499155,
+      "start_coordinates":"POINT(-2.8878223802921 53.189076567118)",
+      "end_coordinates":"POINT(-2.893962251718 53.186739857971)"
+    },
+    {
+      "ride_uuid":"0030cf3b-5764-4cc4-bde1-612a3b639bf2",
+      "imei":"867584034640000",
+      "start_timestamp":1629555015,
+      "end_timestamp":1629556316,
+      "start_coordinates":"POINT(-2.8547216608205 53.196615881459)",
+      "end_coordinates":"POINT(-2.9085332598084 53.206108116466)"
+    },
+    {
+      "ride_uuid":"0030d174-92ca-42df-8501-cdfc206824e7",
+      "imei":"867584036178742",
+      "start_timestamp":1628099020,
+      "end_timestamp":1628099334,
+      "start_coordinates":"POINT(-2.1163682656955 52.805150343234)",
+      "end_coordinates":"POINT(-2.1164325292017 52.805183674075)"
+    },
+    {
+      "ride_uuid":"00311f87-bdbc-4677-b6c2-47a3ded0767c",
+      "imei":"867584035490841",
+      "start_timestamp":1608635834,
+      "end_timestamp":1608638129,
+      "start_coordinates":"POINT(-1.2496290262789 54.711811132729)",
+      "end_coordinates":"POINT(-1.251431889832 54.712546728551)"
+    },
+    {
+      "ride_uuid":"003142ba-9160-4f36-9df6-7736ae83148e",
+      "imei":"861123050550621",
+      "start_timestamp":1688059647,
+      "end_timestamp":1688060335,
+      "start_coordinates":"POINT(-2.8841198 53.183189)",
+      "end_coordinates":"POINT(-2.8782618 53.1926447)"
+    },
+    {
+      "ride_uuid":"00314f2e-0469-4ad5-b450-81c203635e04",
+      "imei":"867584035975338",
+      "start_timestamp":1646568460,
+      "end_timestamp":1646571591,
+      "start_coordinates":"POINT(-0.66178188464849 53.579149127183)",
+      "end_coordinates":"POINT(-0.66134346145266 53.579310044161)"
+    },
+    {
+      "ride_uuid":"0031b327-2759-4179-9207-f29f63402a18",
+      "imei":"867584034652318",
+      "start_timestamp":1645517600,
+      "end_timestamp":1645518410,
+      "start_coordinates":"POINT(-2.8657818879521 53.175835233217)",
+      "end_coordinates":"POINT(-2.8882452617529 53.193769848934)"
+    },
+    {
+      "ride_uuid":"0031ddce-dc05-407e-a720-85cb66856065",
+      "imei":"867584035975304",
+      "start_timestamp":1667068540,
+      "end_timestamp":1667069539,
+      "start_coordinates":"POINT(-0.65393007119691 53.566445151943)",
+      "end_coordinates":"POINT(-0.64778222982177 53.590952696293)"
+    },
+    {
+      "ride_uuid":"00322de8-ea03-412b-899a-325f87879d46",
+      "imei":"867584034698253",
+      "start_timestamp":1624529488,
+      "end_timestamp":1624530204,
+      "start_coordinates":"POINT(-1.1989926987269 54.544421810233)",
+      "end_coordinates":"POINT(-1.2176068 54.549953)"
+    },
+    {
+      "ride_uuid":"003299ee-1019-4f9f-abbb-1ee594e95502",
+      "imei":"867584031350825",
+      "start_timestamp":1647099800,
+      "end_timestamp":1647102201,
+      "start_coordinates":"POINT(-1.2402655184281 54.565057922205)",
+      "end_coordinates":"POINT(-1.2402911213699 54.565081846197)"
+    },
+    {
+      "ride_uuid":"00338405-e14b-4d9b-b569-6190312be017",
+      "imei":"867584036175920",
+      "start_timestamp":1669084820,
+      "end_timestamp":1669085270,
+      "start_coordinates":"POINT(-0.77357337717004 52.034491137505)",
+      "end_coordinates":"POINT(-0.75909507772789 52.034690622815)"
+    },
+    {
+      "ride_uuid":"0033b774-eeb6-495b-8f28-0b6c8476066c",
+      "imei":"867584034155643",
+      "start_timestamp":1618776620,
+      "end_timestamp":1618777681,
+      "start_coordinates":"POINT(-1.2381610436307 54.574503799502)",
+      "end_coordinates":"POINT(-1.2589670204387 54.542692956591)"
+    },
+    {
+      "ride_uuid":"0033bf77-795b-4c92-9815-5dbb6601ef7a",
+      "imei":"867584035978498",
+      "start_timestamp":1700574301,
+      "end_timestamp":1700574697,
+      "start_coordinates":"POINT(-2.8802581 53.1963603)",
+      "end_coordinates":"POINT(-2.8961259 53.1989522)"
+    },
+    {
+      "ride_uuid":"0033c669-e4f4-483f-93ff-bacf5f6c96b6",
+      "imei":"867584036164726",
+      "start_timestamp":1619644175,
+      "end_timestamp":1619645038,
+      "start_coordinates":"POINT(1.7311961071609 52.56946066613)",
+      "end_coordinates":"POINT(1.7311922 52.5694609)"
+    },
+    {
+      "ride_uuid":"0033eeab-c1c5-467e-9854-db9672214cc4",
+      "imei":"862869030493568",
+      "start_timestamp":1680024616,
+      "end_timestamp":1680026162,
+      "start_coordinates":"POINT(-2.892462 53.19224)",
+      "end_coordinates":"POINT(-2.8924269 53.1922337)"
+    },
+    {
+      "ride_uuid":"00348124-af2a-45b5-8247-17bf9ee4f329",
+      "imei":"862869030786334",
+      "start_timestamp":1663688900,
+      "end_timestamp":1663690666,
+      "start_coordinates":"POINT(1.7296652 52.6064915)",
+      "end_coordinates":"POINT(1.7251578 52.6096874)"
+    },
+    {
+      "ride_uuid":"003496d1-3a9b-4141-bfde-5ad456b22ac6",
+      "imei":"867584036162407",
+      "start_timestamp":1609262137,
+      "end_timestamp":1609263250,
+      "start_coordinates":"POINT(-2.8801763836703 53.196610235913)",
+      "end_coordinates":"POINT(-2.9164737083602 53.173217369895)"
+    },
+    {
+      "ride_uuid":"0034a903-5ea1-42e6-8138-0da695d739a4",
+      "imei":"867584035738264",
+      "start_timestamp":1663537152,
+      "end_timestamp":1663537709,
+      "start_coordinates":"POINT(1.7283606949045 52.617491585776)",
+      "end_coordinates":"POINT(1.7308083421517 52.610253151775)"
+    },
+    {
+      "ride_uuid":"0034f960-cddb-4610-837e-3aebfb046655",
+      "imei":"862869030722651",
+      "start_timestamp":1662795784,
+      "end_timestamp":1662796564,
+      "start_coordinates":"POINT(1.7332187 52.5981313)",
+      "end_coordinates":"POINT(1.7210709 52.6118616)"
+    },
+    {
+      "ride_uuid":"003505c9-4314-4884-8bdd-d64becea2432",
+      "imei":"867584031313526",
+      "start_timestamp":1629553165,
+      "end_timestamp":1629554528,
+      "start_coordinates":"POINT(1.7373372286286 52.608620746165)",
+      "end_coordinates":"POINT(1.7378045616488 52.611147122186)"
+    },
+    {
+      "ride_uuid":"00353cdd-7238-4052-b14f-f5805b2ac4ee",
+      "imei":"867584031415636",
+      "start_timestamp":1608477764,
+      "end_timestamp":1608480251,
+      "start_coordinates":"POINT(-1.2098065564576 54.686832967876)",
+      "end_coordinates":"POINT(-1.2435728612803 54.694506676699)"
+    },
+    {
+      "ride_uuid":"0035a25a-952e-4eb0-9316-54b04dbd39c4",
+      "imei":"862869030452051",
+      "start_timestamp":1655883604,
+      "end_timestamp":1655883965,
+      "start_coordinates":"POINT(-2.8761069104102 53.21142829494)",
+      "end_coordinates":"POINT(-2.8927633445737 53.208929775333)"
+    },
+    {
+      "ride_uuid":"0035ceb4-2612-4d28-b8ce-1a605095342e",
+      "imei":"862869030757210",
+      "start_timestamp":1647512203,
+      "end_timestamp":1647512360,
+      "start_coordinates":"POINT(-2.9079952590101 53.178962415902)",
+      "end_coordinates":"POINT(-2.9173351627775 53.179928477502)"
+    },
+    {
+      "ride_uuid":"0035eab2-f476-4d84-af82-f6fe512b01e0",
+      "imei":"862869030794759",
+      "start_timestamp":1692037732,
+      "end_timestamp":1692038590,
+      "start_coordinates":"POINT(1.7374635298363 52.608490366654)",
+      "end_coordinates":"POINT(1.7363387801317 52.608011170375)"
+    },
+    {
+      "ride_uuid":"0035f475-c808-4a32-b4f1-24645f1dab42",
+      "imei":"867584035189781",
+      "start_timestamp":1650470943,
+      "end_timestamp":1650471342,
+      "start_coordinates":"POINT(-0.75948583893478 52.04344864469)",
+      "end_coordinates":"POINT(-0.748218 52.0392754)"
+    },
+    {
+      "ride_uuid":"00360cd2-d0e3-41f0-ad78-e99bc207f067",
+      "imei":"862869030786110",
+      "start_timestamp":1665128105,
+      "end_timestamp":1665130258,
+      "start_coordinates":"POINT(1.7281682042576 52.619919541228)",
+      "end_coordinates":"POINT(1.7334502957339 52.594596919126)"
+    },
+    {
+      "ride_uuid":"00361397-70ab-40be-a28a-7364480be546",
+      "imei":"862869030759604",
+      "start_timestamp":1651936551,
+      "end_timestamp":1651937877,
+      "start_coordinates":"POINT(1.7364894817213 52.602196201518)",
+      "end_coordinates":"POINT(1.7364249617267 52.602183623503)"
+    },
+    {
+      "ride_uuid":"00361622-79cd-4e15-b06d-a6fd50dace81",
+      "imei":"867584036156168",
+      "start_timestamp":1624130997,
+      "end_timestamp":1624132175,
+      "start_coordinates":"POINT(-2.0992881430337 52.815295452448)",
+      "end_coordinates":"POINT(-2.0992239 52.8152584)"
+    },
+    {
+      "ride_uuid":"00364fe9-5f19-472a-9dcf-afbfae67124f",
+      "imei":"867584031358166",
+      "start_timestamp":1647195554,
+      "end_timestamp":1647196497,
+      "start_coordinates":"POINT(-0.77683084644377 52.037939094007)",
+      "end_coordinates":"POINT(-0.8026659 52.0264058)"
+    },
+    {
+      "ride_uuid":"003655f2-58c3-458a-a178-188d9f12c041",
+      "imei":"867584035169627",
+      "start_timestamp":1622563305,
+      "end_timestamp":1622564345,
+      "start_coordinates":"POINT(-0.77297396484601 52.035043004247)",
+      "end_coordinates":"POINT(-0.75971125685172 52.065766854002)"
+    },
+    {
+      "ride_uuid":"00367e9a-fbe6-431e-80db-58d401ce9c8a",
+      "imei":"867584035146120",
+      "start_timestamp":1618760563,
+      "end_timestamp":1618765611,
+      "start_coordinates":"POINT(1.7311397736461 52.560502004349)",
+      "end_coordinates":"POINT(1.7311094724667 52.560504149403)"
+    },
+    {
+      "ride_uuid":"003680f5-f690-437c-8cb1-467f69441057",
+      "imei":"867584035169478",
+      "start_timestamp":1629222452,
+      "end_timestamp":1629222508,
+      "start_coordinates":"POINT(-0.74882619399413 52.043151923729)",
+      "end_coordinates":"POINT(-0.74895111761834 52.0432629679)"
+    },
+    {
+      "ride_uuid":"0036ceb2-eafe-4095-b42a-cd25d0e81b67",
+      "imei":"862869030794650",
+      "start_timestamp":1647467293,
+      "end_timestamp":1647469571,
+      "start_coordinates":"POINT(-1.215072116543 54.57092969545)",
+      "end_coordinates":"POINT(-1.2175125908118 54.549980093776)"
+    },
+    {
+      "ride_uuid":"0036db36-f3c0-4a82-8482-27fd171b63cb",
+      "imei":"867584035497424",
+      "start_timestamp":1626526399,
+      "end_timestamp":1626527421,
+      "start_coordinates":"POINT(-2.897866 53.1959866)",
+      "end_coordinates":"POINT(-2.8801288 53.1965142)"
+    },
+    {
+      "ride_uuid":"0036fc91-de2d-41c9-821d-7840397a94f4",
+      "imei":"867584034641741",
+      "start_timestamp":1663173962,
+      "end_timestamp":1663174275,
+      "start_coordinates":"POINT(-2.8802750745374 53.196441769842)",
+      "end_coordinates":"POINT(-2.8978145725581 53.195949376648)"
+    },
+    {
+      "ride_uuid":"003706e5-ddd7-4277-a7cd-70ceb7b7444f",
+      "imei":"862869030789874",
+      "start_timestamp":1651644095,
+      "end_timestamp":1651644493,
+      "start_coordinates":"POINT(1.7234957 52.5862716)",
+      "end_coordinates":"POINT(1.7030178 52.5912568)"
+    },
+    {
+      "ride_uuid":"00378654-387d-4836-b20a-79e5533c9172",
+      "imei":"867584036177371",
+      "start_timestamp":1625355791,
+      "end_timestamp":1625363527,
+      "start_coordinates":"POINT(-1.2334301602107 54.570413706875)",
+      "end_coordinates":"POINT(-1.1849696642067 54.53138602534)"
+    },
+    {
+      "ride_uuid":"00384b24-7120-4cea-b0b1-ef9fc7c031f0",
+      "imei":"867584031369098",
+      "start_timestamp":1625056198,
+      "end_timestamp":1625056676,
+      "start_coordinates":"POINT(1.7216035898972 52.578414645895)",
+      "end_coordinates":"POINT(1.7036000556277 52.583602962515)"
+    },
+    {
+      "ride_uuid":"00384ccf-ef4b-4f83-a422-82fb89033753",
+      "imei":"862869030717719",
+      "start_timestamp":1662478815,
+      "end_timestamp":1662479648,
+      "start_coordinates":"POINT(-2.9093583 53.195395)",
+      "end_coordinates":"POINT(-2.8845621 53.1968737)"
+    },
+    {
+      "ride_uuid":"00384fbf-77cc-4e23-83de-480b6f298fe3",
+      "imei":"867584035496764",
+      "start_timestamp":1665144852,
+      "end_timestamp":1665145924,
+      "start_coordinates":"POINT(-0.71385382583984 52.039030913029)",
+      "end_coordinates":"POINT(-0.77336202439021 52.034578151321)"
+    },
+    {
+      "ride_uuid":"00386250-c111-46ca-9d24-d954b600617c",
+      "imei":"861123050550621",
+      "start_timestamp":1692977535,
+      "end_timestamp":1692977903,
+      "start_coordinates":"POINT(-2.9094069292721 53.195500430716)",
+      "end_coordinates":"POINT(-2.888134417357 53.193776162917)"
+    },
+    {
+      "ride_uuid":"00389848-a838-41f2-8320-d364690984d1",
+      "imei":"862869030476787",
+      "start_timestamp":1655065108,
+      "end_timestamp":1655066058,
+      "start_coordinates":"POINT(-1.2487571411211 54.58873012639)",
+      "end_coordinates":"POINT(-1.2489894114348 54.588684905932)"
+    },
+    {
+      "ride_uuid":"0038a6e5-b6fc-4b47-a744-388242037372",
+      "imei":"867584036182678",
+      "start_timestamp":1630028330,
+      "end_timestamp":1630028705,
+      "start_coordinates":"POINT(-0.77329111591455 52.034593187697)",
+      "end_coordinates":"POINT(-0.7542028 52.0331234)"
+    },
+    {
+      "ride_uuid":"0038ff37-be2a-4004-9605-e0d9c7d4ec2d",
+      "imei":"867584035501928",
+      "start_timestamp":1651597376,
+      "end_timestamp":1651597633,
+      "start_coordinates":"POINT(-2.8548509184014 53.196828828582)",
+      "end_coordinates":"POINT(-2.8654985131909 53.190303306894)"
+    },
+    {
+      "ride_uuid":"0039128b-2779-4f3a-bcbd-46434d84389a",
+      "imei":"861123050550886",
+      "start_timestamp":1653637083,
+      "end_timestamp":1653638351,
+      "start_coordinates":"POINT(-2.9261660182932 53.208485610749)",
+      "end_coordinates":"POINT(-2.8917878 53.1958538)"
+    },
+    {
+      "ride_uuid":"003918d4-5c94-4638-bf44-f325e4bcbb67",
+      "imei":"861123050554299",
+      "start_timestamp":1635798677,
+      "end_timestamp":1635799293,
+      "start_coordinates":"POINT(-2.8847361449131 53.196714828227)",
+      "end_coordinates":"POINT(-2.8758673285405 53.199324958314)"
+    },
+    {
+      "ride_uuid":"003948f6-21a0-4393-91a7-66b1df93effd",
+      "imei":"867584035145726",
+      "start_timestamp":1622927491,
+      "end_timestamp":1622930798,
+      "start_coordinates":"POINT(-2.1146014366173 52.782776327465)",
+      "end_coordinates":"POINT(-2.1070192508109 52.784454875551)"
+    },
+    {
+      "ride_uuid":"00394abc-287a-4ea7-9fd5-b86141ed0e8e",
+      "imei":"861123050551249",
+      "start_timestamp":1659048938,
+      "end_timestamp":1659049395,
+      "start_coordinates":"POINT(1.73094174 52.56963746)",
+      "end_coordinates":"POINT(1.72294066 52.55660115)"
+    },
+    {
+      "ride_uuid":"0039859b-1ef6-48e5-8ae8-53b23817904d",
+      "imei":"862869030448836",
+      "start_timestamp":1662299953,
+      "end_timestamp":1662303652,
+      "start_coordinates":"POINT(1.7356808004798 52.595313668319)",
+      "end_coordinates":"POINT(1.7356770244199 52.5950815486)"
+    },
+    {
+      "ride_uuid":"00398843-6cfc-4537-833b-cbe48e31c8a6",
+      "imei":"862869030415835",
+      "start_timestamp":1647264442,
+      "end_timestamp":1647265476,
+      "start_coordinates":"POINT(1.720664644167 52.605860611158)",
+      "end_coordinates":"POINT(1.7380449316284 52.613621789954)"
+    },
+    {
+      "ride_uuid":"00398d86-5c02-468b-8b99-2b808075709a",
+      "imei":"862869031334084",
+      "start_timestamp":1702136094,
+      "end_timestamp":1702136979,
+      "start_coordinates":"POINT(1.7096796073645 52.572287617314)",
+      "end_coordinates":"POINT(1.7119946651675 52.598221302435)"
+    },
+    {
+      "ride_uuid":"0039a665-8574-4341-91df-edce9cd20828",
+      "imei":"867584035144620",
+      "start_timestamp":1634332456,
+      "end_timestamp":1634336425,
+      "start_coordinates":"POINT(1.7357003808046 52.595048970585)",
+      "end_coordinates":"POINT(1.7358405028014 52.595012038407)"
+    },
+    {
+      "ride_uuid":"0039afba-4a66-4fe3-af7c-7eca75b024ab",
+      "imei":"867584036161300",
+      "start_timestamp":1621774252,
+      "end_timestamp":1621774817,
+      "start_coordinates":"POINT(-2.8912233094353 53.189178965019)",
+      "end_coordinates":"POINT(-2.9080132914409 53.17898078421)"
+    },
+    {
+      "ride_uuid":"0039c5f7-6d53-4943-8f3f-efab28911c55",
+      "imei":"862869030735216",
+      "start_timestamp":1648723785,
+      "end_timestamp":1648724373,
+      "start_coordinates":"POINT(-2.870736738915 53.207287372479)",
+      "end_coordinates":"POINT(-2.8802641093396 53.196315872744)"
+    },
+    {
+      "ride_uuid":"0039c9f2-61fa-4128-8bae-540d3c1e7edf",
+      "imei":"862869030788488",
+      "start_timestamp":1655920024,
+      "end_timestamp":1655920836,
+      "start_coordinates":"POINT(1.7137698613983 52.558047346884)",
+      "end_coordinates":"POINT(1.6951569508589 52.579445707211)"
+    },
+    {
+      "ride_uuid":"0039d337-97fe-47ce-80a4-f934df1ada16",
+      "imei":"867584035144075",
+      "start_timestamp":1651248313,
+      "end_timestamp":1651249629,
+      "start_coordinates":"POINT(1.73354508468 52.602620560645)",
+      "end_coordinates":"POINT(1.7364475526468 52.602183776707)"
+    },
+    {
+      "ride_uuid":"0039dc2a-5de0-45f8-bd8f-46ae01dea5ce",
+      "imei":"862869030470202",
+      "start_timestamp":1700317696,
+      "end_timestamp":1700318828,
+      "start_coordinates":"POINT(-2.8913543205524 53.188542406302)",
+      "end_coordinates":"POINT(-2.891274644146 53.188507647428)"
+    },
+    {
+      "ride_uuid":"003a097f-5c44-4e88-89cd-223b6cf52c78",
+      "imei":"862869030735216",
+      "start_timestamp":1675940288,
+      "end_timestamp":1675940736,
+      "start_coordinates":"POINT(-2.9093572 53.1953862)",
+      "end_coordinates":"POINT(-2.8881197 53.1937413)"
+    },
+    {
+      "ride_uuid":"003a2d3b-4ca1-4c9c-8c70-42dedf9017a7",
+      "imei":"867584035144315",
+      "start_timestamp":1668956352,
+      "end_timestamp":1668957034,
+      "start_coordinates":"POINT(-0.7733711651193 52.034620106179)",
+      "end_coordinates":"POINT(-0.75841972674096 52.040692248819)"
+    },
+    {
+      "ride_uuid":"003a3c81-0baa-4f09-916f-9990f72b74b3",
+      "imei":"867584035143945",
+      "start_timestamp":1629277392,
+      "end_timestamp":1629278992,
+      "start_coordinates":"POINT(-2.0841357135543 52.797828519611)",
+      "end_coordinates":"POINT(-2.1350520590683 52.832455809671)"
+    },
+    {
+      "ride_uuid":"003a5a80-b376-4e33-9c82-035ed529501f",
+      "imei":"867584031318046",
+      "start_timestamp":1661105111,
+      "end_timestamp":1661105697,
+      "start_coordinates":"POINT(-1.2149954214703 54.571190583571)",
+      "end_coordinates":"POINT(-1.2381513834871 54.574496775688)"
+    },
+    {
+      "ride_uuid":"003a792c-cf5e-449b-9000-3df4a5d558a3",
+      "imei":"862869030454156",
+      "start_timestamp":1670507022,
+      "end_timestamp":1670507350,
+      "start_coordinates":"POINT(1.7288447519337 52.581420725612)",
+      "end_coordinates":"POINT(1.7232564476185 52.586251482258)"
+    },
+    {
+      "ride_uuid":"003a93d5-62c6-4718-b1fd-fcc3e5ab1f3f",
+      "imei":"862869030420207",
+      "start_timestamp":1626888922,
+      "end_timestamp":1626889273,
+      "start_coordinates":"POINT(-2.8693039127668 53.187917443679)",
+      "end_coordinates":"POINT(-2.8657344893561 53.175977366479)"
+    },
+    {
+      "ride_uuid":"003ab6b6-37b1-455c-8fbc-4167bd18e3d8",
+      "imei":"867584031313526",
+      "start_timestamp":1625953008,
+      "end_timestamp":1625954284,
+      "start_coordinates":"POINT(1.7281522003431 52.57084417664)",
+      "end_coordinates":"POINT(1.7088859375533 52.58090251837)"
+    },
+    {
+      "ride_uuid":"003ae3d0-8938-4d73-bd14-b1c4acf0a2a8",
+      "imei":"867584036167133",
+      "start_timestamp":1627052773,
+      "end_timestamp":1627053985,
+      "start_coordinates":"POINT(-2.8847230641501 53.188333385369)",
+      "end_coordinates":"POINT(-2.8847371 53.1883102)"
+    },
+    {
+      "ride_uuid":"003b0d63-73eb-408b-a4ba-b7979291e671",
+      "imei":"867584036160898",
+      "start_timestamp":1665988204,
+      "end_timestamp":1665989473,
+      "start_coordinates":"POINT(-2.8657726 53.1760056)",
+      "end_coordinates":"POINT(-2.9301869072961 53.195391952974)"
+    },
+    {
+      "ride_uuid":"003b1b91-33db-449f-a076-b29540bfb3df",
+      "imei":"867584035729461",
+      "start_timestamp":1636298847,
+      "end_timestamp":1636299713,
+      "start_coordinates":"POINT(1.7288496585822 52.581113009549)",
+      "end_coordinates":"POINT(1.7117347 52.5984564)"
+    },
+    {
+      "ride_uuid":"003b2d05-20e0-47fd-ad01-2f71fec62f13",
+      "imei":"861123050546900",
+      "start_timestamp":1646503717,
+      "end_timestamp":1646504713,
+      "start_coordinates":"POINT(-0.65456514675978 53.582194100511)",
+      "end_coordinates":"POINT(-0.65457994910758 53.582117643127)"
+    },
+    {
+      "ride_uuid":"003b3b42-15af-416a-99f1-e83144ff5dee",
+      "imei":"867584035496764",
+      "start_timestamp":1655573604,
+      "end_timestamp":1655573741,
+      "start_coordinates":"POINT(-0.77712806659776 52.037857169787)",
+      "end_coordinates":"POINT(-0.77680620655532 52.037937126577)"
+    },
+    {
+      "ride_uuid":"003b4b58-3c9b-4754-a9a9-c2ace3168fca",
+      "imei":"867584036175078",
+      "start_timestamp":1623684745,
+      "end_timestamp":1623685847,
+      "start_coordinates":"POINT(-2.0821899910059 52.78655862892)",
+      "end_coordinates":"POINT(-2.1163506712784 52.805279488724)"
+    },
+    {
+      "ride_uuid":"003b63b6-760c-4636-b648-ad885eb2ff99",
+      "imei":"861123050550886",
+      "start_timestamp":1625070320,
+      "end_timestamp":1625071921,
+      "start_coordinates":"POINT(-2.9093016820119 53.195506446394)",
+      "end_coordinates":"POINT(-2.9002359204072 53.190608062988)"
+    },
+    {
+      "ride_uuid":"003b70ed-0245-4ee4-9600-6114300ce7c2",
+      "imei":"862869030482835",
+      "start_timestamp":1658048417,
+      "end_timestamp":1658048938,
+      "start_coordinates":"POINT(1.7015218800265 52.586583914748)",
+      "end_coordinates":"POINT(1.7287256196157 52.5811134093)"
+    },
+    {
+      "ride_uuid":"003b8363-1334-4c9a-b0c0-b3962a8309f1",
+      "imei":"867584036179690",
+      "start_timestamp":1612207861,
+      "end_timestamp":1612208157,
+      "start_coordinates":"POINT(-2.89780589 53.19594774)",
+      "end_coordinates":"POINT(-2.8880224 53.1938302)"
+    },
+    {
+      "ride_uuid":"003b9802-2169-4b9c-92b8-1f60d88fae8a",
+      "imei":"867584035146526",
+      "start_timestamp":1681325100,
+      "end_timestamp":1681325389,
+      "start_coordinates":"POINT(1.7336557406954 52.613815967005)",
+      "end_coordinates":"POINT(1.7276635927409 52.608205978655)"
+    },
+    {
+      "ride_uuid":"003ba325-fa29-4d0e-9b69-36dfe8cf0a03",
+      "imei":"862869031334431",
+      "start_timestamp":1697821343,
+      "end_timestamp":1697822384,
+      "start_coordinates":"POINT(1.7252965860892 52.589544106546)",
+      "end_coordinates":"POINT(1.7333127062739 52.602635279575)"
+    },
+    {
+      "ride_uuid":"003bb05c-c92c-4fa5-aca9-e43decfff052",
+      "imei":"862869030493568",
+      "start_timestamp":1632162371,
+      "end_timestamp":1632162712,
+      "start_coordinates":"POINT(-2.89119763 53.18853958)",
+      "end_coordinates":"POINT(-2.8802425 53.1962989)"
+    },
+    {
+      "ride_uuid":"003c0a66-8ee4-4188-ae0a-41c0d53cf229",
+      "imei":"862869030785773",
+      "start_timestamp":1673018383,
+      "end_timestamp":1673019265,
+      "start_coordinates":"POINT(-2.9302039 53.195384)",
+      "end_coordinates":"POINT(-2.880374 53.1964397)"
+    },
+    {
+      "ride_uuid":"003c0c81-3338-419b-a129-098a50bfbe41",
+      "imei":"867584036161300",
+      "start_timestamp":1640284246,
+      "end_timestamp":1640284990,
+      "start_coordinates":"POINT(-2.8880804842713 53.193715394816)",
+      "end_coordinates":"POINT(-2.8758766125802 53.199322540491)"
+    },
+    {
+      "ride_uuid":"003c3c0c-4e3b-489e-9a9f-4f8434eec424",
+      "imei":"867584036170441",
+      "start_timestamp":1622732427,
+      "end_timestamp":1622734587,
+      "start_coordinates":"POINT(1.72059298 52.60574551)",
+      "end_coordinates":"POINT(1.7375493 52.6086028)"
+    },
+    {
+      "ride_uuid":"003c7b0c-031a-4d7b-8f4b-49c4fd4af056",
+      "imei":"861123050554060",
+      "start_timestamp":1704026505,
+      "end_timestamp":1704027752,
+      "start_coordinates":"POINT(-2.8925414671389 53.192316731846)",
+      "end_coordinates":"POINT(-2.9094083518537 53.19541321689)"
+    },
+    {
+      "ride_uuid":"003d07b7-f64c-4ad4-b7f9-a21a7b9df5d3",
+      "imei":"862869030491596",
+      "start_timestamp":1660383035,
+      "end_timestamp":1660383944,
+      "start_coordinates":"POINT(1.7364944391218 52.602167272469)",
+      "end_coordinates":"POINT(1.7358258597751 52.595647508746)"
+    },
+    {
+      "ride_uuid":"003d472a-0b19-41d9-86b3-7213aa2c68de",
+      "imei":"867584034648928",
+      "start_timestamp":1623779816,
+      "end_timestamp":1623782442,
+      "start_coordinates":"POINT(-1.2164009 54.6837175)",
+      "end_coordinates":"POINT(-1.216481 54.6836457)"
+    },
+    {
+      "ride_uuid":"003d5339-dde3-4119-b196-49e5f6a7fa2f",
+      "imei":"867584035504872",
+      "start_timestamp":1633984227,
+      "end_timestamp":1633984437,
+      "start_coordinates":"POINT(-1.2382591872407 54.574533773054)",
+      "end_coordinates":"POINT(-1.2332269 54.5703935)"
+    },
+    {
+      "ride_uuid":"003d8afd-a47e-48f8-a35d-6a0f8c3777cf",
+      "imei":"862869031490365",
+      "start_timestamp":1689421177,
+      "end_timestamp":1689422294,
+      "start_coordinates":"POINT(1.7288209345805 52.581293417077)",
+      "end_coordinates":"POINT(1.7375163238901 52.609015745426)"
+    },
+    {
+      "ride_uuid":"003d8c2d-fd6c-4d37-acd0-39f81fbed184",
+      "imei":"867584035144423",
+      "start_timestamp":1628059691,
+      "end_timestamp":1628060395,
+      "start_coordinates":"POINT(-2.1332251396593 52.8274056459)",
+      "end_coordinates":"POINT(-2.1145179699873 52.805371296762)"
+    },
+    {
+      "ride_uuid":"003dcf33-8af8-494d-9349-3e797c03b9bf",
+      "imei":"867584031359750",
+      "start_timestamp":1623011124,
+      "end_timestamp":1623012311,
+      "start_coordinates":"POINT(-2.8850167 53.1914845)",
+      "end_coordinates":"POINT(-2.8780847 53.1930138)"
+    },
+    {
+      "ride_uuid":"003dd420-949a-415b-950c-5f1eb53e9631",
+      "imei":"867584035145569",
+      "start_timestamp":1653402591,
+      "end_timestamp":1653403645,
+      "start_coordinates":"POINT(-1.2360816666667 54.671315)",
+      "end_coordinates":"POINT(-1.2160549 54.6888764)"
+    },
+    {
+      "ride_uuid":"003df005-78c5-44d3-9f1f-6df3f6ccdfe1",
+      "imei":"867584035143796",
+      "start_timestamp":1651283774,
+      "end_timestamp":1651284098,
+      "start_coordinates":"POINT(1.73291015 52.60296423)",
+      "end_coordinates":"POINT(1.7206241 52.6058225)"
+    },
+    {
+      "ride_uuid":"003e02dd-0556-4249-9575-28cb60b8756b",
+      "imei":"867584036154297",
+      "start_timestamp":1614029373,
+      "end_timestamp":1614031961,
+      "start_coordinates":"POINT(-2.8912559143989 53.188512413313)",
+      "end_coordinates":"POINT(-2.8978268991303 53.195934080185)"
+    },
+    {
+      "ride_uuid":"003e0315-a0fc-4a6b-9d4a-e8e0f0beb883",
+      "imei":"862869031346070",
+      "start_timestamp":1686899502,
+      "end_timestamp":1686900055,
+      "start_coordinates":"POINT(1.729666650293 52.602839867637)",
+      "end_coordinates":"POINT(1.7388952124011 52.619691953174)"
+    },
+    {
+      "ride_uuid":"003e424a-7a74-47ae-8eb8-2e7b877ec9bc",
+      "imei":"867584031340982",
+      "start_timestamp":1624739971,
+      "end_timestamp":1624740349,
+      "start_coordinates":"POINT(1.7364136233766 52.602204917406)",
+      "end_coordinates":"POINT(1.7364167721877 52.60218568272)"
+    },
+    {
+      "ride_uuid":"003e64ed-4251-4467-ba9a-cdd4ebe771f6",
+      "imei":"867584035735914",
+      "start_timestamp":1665184031,
+      "end_timestamp":1665186106,
+      "start_coordinates":"POINT(1.7199289 52.5990084)",
+      "end_coordinates":"POINT(1.7205814 52.6059641)"
+    },
+    {
+      "ride_uuid":"003e6594-4f7a-4a7a-bf21-40b38e57d8cd",
+      "imei":"867584035181192",
+      "start_timestamp":1606057638,
+      "end_timestamp":1606058452,
+      "start_coordinates":"POINT(-1.2148509013904 54.673634562216)",
+      "end_coordinates":"POINT(-1.2361092876711 54.671272708219)"
+    },
+    {
+      "ride_uuid":"003e73cb-503d-4757-a682-d6b1f36945ab",
+      "imei":"867584036181589",
+      "start_timestamp":1618687667,
+      "end_timestamp":1618688332,
+      "start_coordinates":"POINT(-2.8962290334649 53.198845632383)",
+      "end_coordinates":"POINT(-2.9261367645852 53.20836030423)"
+    },
+    {
+      "ride_uuid":"003e789e-26e2-4c65-ad77-3c4858f748ed",
+      "imei":"867584031208569",
+      "start_timestamp":1666107028,
+      "end_timestamp":1666107965,
+      "start_coordinates":"POINT(-2.8802764 53.1963261)",
+      "end_coordinates":"POINT(-2.8549814 53.1966342)"
+    },
+    {
+      "ride_uuid":"003ed494-eb61-400d-bb14-b27e87639d3e",
+      "imei":"862869031334720",
+      "start_timestamp":1694097188,
+      "end_timestamp":1694097676,
+      "start_coordinates":"POINT(1.729672 52.6065249)",
+      "end_coordinates":"POINT(1.735328 52.5906373)"
+    },
+    {
+      "ride_uuid":"003ede1f-e5b5-466d-95cb-16509c7fb403",
+      "imei":"867584036174600",
+      "start_timestamp":1636198202,
+      "end_timestamp":1636198544,
+      "start_coordinates":"POINT(1.7312774256123 52.618478315991)",
+      "end_coordinates":"POINT(1.7259420541112 52.610875696828)"
+    },
+    {
+      "ride_uuid":"003eecc8-bdcc-4b7d-8a6d-9c76ca58e037",
+      "imei":"861123050551520",
+      "start_timestamp":1622390564,
+      "end_timestamp":1622391923,
+      "start_coordinates":"POINT(-1.2433646150563 54.560959338503)",
+      "end_coordinates":"POINT(-1.2276390890499 54.575613153434)"
+    },
+    {
+      "ride_uuid":"003f179a-6098-45ef-80e7-3343a763bf23",
+      "imei":"862869030717719",
+      "start_timestamp":1633032491,
+      "end_timestamp":1633033013,
+      "start_coordinates":"POINT(-2.8783844309513 53.192800355832)",
+      "end_coordinates":"POINT(-2.8960974462525 53.199013764079)"
+    },
+    {
+      "ride_uuid":"003f6ab5-387c-44c5-96ab-58986cd3b96a",
+      "imei":"862869031497717",
+      "start_timestamp":1694885910,
+      "end_timestamp":1694887281,
+      "start_coordinates":"POINT(1.7371991 52.6087534)",
+      "end_coordinates":"POINT(1.7363586 52.6021813)"
+    },
+    {
+      "ride_uuid":"003f7d19-0b1b-4a64-99c0-eda578c4b6c3",
+      "imei":"867584035140001",
+      "start_timestamp":1660057260,
+      "end_timestamp":1660061090,
+      "start_coordinates":"POINT(-0.72209937609201 52.048750730083)",
+      "end_coordinates":"POINT(-0.72235442202107 52.049031162924)"
+    },
+    {
+      "ride_uuid":"003f94c7-f37d-4d48-b4dd-16ca740b82c9",
+      "imei":"867584035978779",
+      "start_timestamp":1617718582,
+      "end_timestamp":1617719314,
+      "start_coordinates":"POINT(-2.89135 53.1885296)",
+      "end_coordinates":"POINT(-2.9165577 53.1731895)"
+    },
+    {
+      "ride_uuid":"003fac37-7db3-40d1-b57e-e4325ac03ca5",
+      "imei":"862869030734235",
+      "start_timestamp":1676286668,
+      "end_timestamp":1676287037,
+      "start_coordinates":"POINT(-2.8915636304785 53.195759439418)",
+      "end_coordinates":"POINT(-2.8846283800967 53.196887406381)"
+    },
+    {
+      "ride_uuid":"003ffd11-d13f-4d6d-a8f7-5e3f972c455c",
+      "imei":"867584036157845",
+      "start_timestamp":1623602931,
+      "end_timestamp":1623603624,
+      "start_coordinates":"POINT(-0.65204266697811 53.5863130167)",
+      "end_coordinates":"POINT(-0.64471567376024 53.566581979273)"
+    },
+    {
+      "ride_uuid":"0040137f-3392-45b8-a86b-77953145d44a",
+      "imei":"867584031348993",
+      "start_timestamp":1630520092,
+      "end_timestamp":1630522492,
+      "start_coordinates":"POINT(-1.250121150532 54.546631413317)",
+      "end_coordinates":"POINT(-1.2496994282052 54.546483121276)"
+    },
+    {
+      "ride_uuid":"00404525-909d-495d-bb49-f292b74ea959",
+      "imei":"867584035182448",
+      "start_timestamp":1628317156,
+      "end_timestamp":1628318358,
+      "start_coordinates":"POINT(-2.925949562341 53.208430800587)",
+      "end_coordinates":"POINT(-2.8978711 53.195982)"
+    },
+    {
+      "ride_uuid":"004046a4-d951-4fa8-b4a1-b45ce77d920e",
+      "imei":"862869030742238",
+      "start_timestamp":1644657516,
+      "end_timestamp":1644658078,
+      "start_coordinates":"POINT(-0.65950879983266 53.590622236705)",
+      "end_coordinates":"POINT(-0.6613282635953 53.579237083025)"
+    },
+    {
+      "ride_uuid":"00408699-e6ed-4add-9e2e-3f752d451814",
+      "imei":"862869030794452",
+      "start_timestamp":1639313070,
+      "end_timestamp":1639313892,
+      "start_coordinates":"POINT(-1.2329141513024 54.655381883596)",
+      "end_coordinates":"POINT(-1.190177634836 54.661258723452)"
+    },
+    {
+      "ride_uuid":"00409d79-734f-417b-ae27-bc130860629a",
+      "imei":"862869030438977",
+      "start_timestamp":1664473873,
+      "end_timestamp":1664474432,
+      "start_coordinates":"POINT(1.7290515248482 52.617423374372)",
+      "end_coordinates":"POINT(1.7211664992602 52.604463571599)"
+    },
+    {
+      "ride_uuid":"0040a611-9e8c-4aec-80d2-719c15fb2ac9",
+      "imei":"867584035166659",
+      "start_timestamp":1624981549,
+      "end_timestamp":1624981741,
+      "start_coordinates":"POINT(-2.8923843364927 53.192230193195)",
+      "end_coordinates":"POINT(-2.8977362102983 53.195989071303)"
+    },
+    {
+      "ride_uuid":"0040ab39-968b-455d-9975-0228f6ef812a",
+      "imei":"862869030757210",
+      "start_timestamp":1650706139,
+      "end_timestamp":1650706566,
+      "start_coordinates":"POINT(-2.8847883738657 53.188307631535)",
+      "end_coordinates":"POINT(-2.8803506 53.1963571)"
+    },
+    {
+      "ride_uuid":"0040bd7e-58a4-4f07-b092-cc8f172df72c",
+      "imei":"862869030494715",
+      "start_timestamp":1651421923,
+      "end_timestamp":1651425773,
+      "start_coordinates":"POINT(-0.65462082412436 53.582095070827)",
+      "end_coordinates":"POINT(-0.65945822842981 53.590555047916)"
+    },
+    {
+      "ride_uuid":"0040ecf2-926b-4fb9-a7d8-5e9b21d9452a",
+      "imei":"867584036155146",
+      "start_timestamp":1644950095,
+      "end_timestamp":1644951519,
+      "start_coordinates":"POINT(-2.8645169758579 53.173159209685)",
+      "end_coordinates":"POINT(-2.9093528869217 53.195408080716)"
+    },
+    {
+      "ride_uuid":"0040f270-85eb-47c3-92e8-5f657068894a",
+      "imei":"867584031364776",
+      "start_timestamp":1661376419,
+      "end_timestamp":1661377422,
+      "start_coordinates":"POINT(1.720669275481 52.606150762244)",
+      "end_coordinates":"POINT(1.7207064381007 52.606133567291)"
+    },
+    {
+      "ride_uuid":"00410c59-cef3-413d-ad3b-8131c7f08f02",
+      "imei":"867584036175359",
+      "start_timestamp":1623868006,
+      "end_timestamp":1623868567,
+      "start_coordinates":"POINT(-2.880710568666 53.214354159962)",
+      "end_coordinates":"POINT(-2.870816511789 53.207355182906)"
+    },
+    {
+      "ride_uuid":"00411198-79ff-428d-88f2-b4d115edabba",
+      "imei":"861123050553765",
+      "start_timestamp":1615819294,
+      "end_timestamp":1615820900,
+      "start_coordinates":"POINT(-0.65013511106372 53.590161991306)",
+      "end_coordinates":"POINT(-0.6501836 53.5900964)"
+    },
+    {
+      "ride_uuid":"00413e45-addf-49e6-8d87-b3b5f26eeb48",
+      "imei":"867584035504872",
+      "start_timestamp":1621653306,
+      "end_timestamp":1621654780,
+      "start_coordinates":"POINT(-1.2382385227841 54.574486641264)",
+      "end_coordinates":"POINT(-1.2381785921764 54.574508518032)"
+    },
+    {
+      "ride_uuid":"00413f5e-39c1-45f5-81a8-74833c426e68",
+      "imei":"862869031334712",
+      "start_timestamp":1695804519,
+      "end_timestamp":1695804911,
+      "start_coordinates":"POINT(1.7331023 52.6026152)",
+      "end_coordinates":"POINT(1.7150734 52.6046881)"
+    },
+    {
+      "ride_uuid":"0041721a-c7fe-4960-afb2-2134d62eeb59",
+      "imei":"867584034653951",
+      "start_timestamp":1675955397,
+      "end_timestamp":1675956176,
+      "start_coordinates":"POINT(1.73320019 52.60261234)",
+      "end_coordinates":"POINT(1.7297957 52.6029995)"
+    },
+    {
+      "ride_uuid":"00417592-3cd1-462c-b715-4fcdba614079",
+      "imei":"867584031329969",
+      "start_timestamp":1618234554,
+      "end_timestamp":1618236819,
+      "start_coordinates":"POINT(-2.8847809419422 53.188368462944)",
+      "end_coordinates":"POINT(-2.8846204 53.1883665)"
+    },
+    {
+      "ride_uuid":"00417eca-3198-4f74-b5a9-ad660085fc48",
+      "imei":"867584036175359",
+      "start_timestamp":1620748357,
+      "end_timestamp":1620749749,
+      "start_coordinates":"POINT(-2.897865906784 53.196050297994)",
+      "end_coordinates":"POINT(-2.897865906784 53.196050297994)"
+    },
+    {
+      "ride_uuid":"0041a679-fd18-4c11-9b3a-e649035ba99a",
+      "imei":"862869031348373",
+      "start_timestamp":1699114421,
+      "end_timestamp":1699114757,
+      "start_coordinates":"POINT(1.7039825016148 52.58303612769)",
+      "end_coordinates":"POINT(1.723498832436 52.586166984451)"
+    },
+    {
+      "ride_uuid":"0041a84d-4cfc-4c8e-aaab-34d374a8d11d",
+      "imei":"867584036181589",
+      "start_timestamp":1618163567,
+      "end_timestamp":1618164364,
+      "start_coordinates":"POINT(-2.8978311559194 53.195992612033)",
+      "end_coordinates":"POINT(-2.8895327 53.1860717)"
+    },
+    {
+      "ride_uuid":"0041ace6-31b4-4b26-8e97-a755e768dece",
+      "imei":"867584034672068",
+      "start_timestamp":1645167596,
+      "end_timestamp":1645168214,
+      "start_coordinates":"POINT(1.7260984 52.5814527)",
+      "end_coordinates":"POINT(1.7029944 52.5912818)"
+    },
+    {
+      "ride_uuid":"0041b2fb-ed44-4ec2-bfad-556ca2859951",
+      "imei":"861123050553153",
+      "start_timestamp":1665735997,
+      "end_timestamp":1665736305,
+      "start_coordinates":"POINT(-0.78947042737149 52.026128156855)",
+      "end_coordinates":"POINT(-0.77462101711382 52.018121282164)"
+    },
+    {
+      "ride_uuid":"0041ba0a-8647-4018-9a07-081dbaab7320",
+      "imei":"862869030472968",
+      "start_timestamp":1655384509,
+      "end_timestamp":1655385772,
+      "start_coordinates":"POINT(1.7271256819383 52.608043961276)",
+      "end_coordinates":"POINT(1.7366320038847 52.602039858013)"
+    }
+  ]
