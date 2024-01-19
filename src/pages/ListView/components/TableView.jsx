@@ -5,7 +5,7 @@ import { FaAngleLeft } from "react-icons/fa6";
 import { FaAnglesLeft } from "react-icons/fa6";
 import { FaAngleRight } from "react-icons/fa6";
 import { FaAnglesRight } from "react-icons/fa6";
-
+import { GiKickScooter } from "react-icons/gi";
 
 
 const TableView = () => {
@@ -15,7 +15,7 @@ const TableView = () => {
   const [filtering, setFiltering] = useState('')
   const columns = [
     {
-      header:"No",
+      header: "No",
       accessorKey: 'id',
 
     },
@@ -30,63 +30,56 @@ const TableView = () => {
       accessorKey: 'imei',
     },
 
-    
-        {
-          header: 'Start Date',
-          accessorKey: 'start_date',
-          // cell:info=>moment.unix(info.getvalue())
-        },
-        {
-          header: 'End Date',
-          accessorKey: 'end_date',
-        },
-        {
-          header: 'Start Time',
-          accessorKey: 'start_time',
-          // cell:info=>moment.unix(info.getvalue())
-        },
-        {
-          header: 'End Time',
-          accessorKey: 'end_time',
-        },
 
-      
-    
-
-    
-      
-    
-        {
-          header: 'Start Longtitude',
-          accessorKey: 'start_long',
-          // cell:info=>moment.unix(info.getvalue())
-        },
-        {
-          header: 'Start Latitude',
-          accessorKey: 'start_lat',
-        },
-        {
-          header: 'End Longtitude',
-          accessorKey: 'end_long',
-          // cell:info=>moment.unix(info.getvalue())
-        },
-        {
-          header: 'Start Latitude',
-          accessorKey: 'end_lat',
-        },
-
-      
-    
+    {
+      header: 'Start Date',
+      accessorKey: 'start_date',
+      // cell:info=>moment.unix(info.getvalue())
+    },
+    {
+      header: 'End Date',
+      accessorKey: 'end_date',
+    },
+    {
+      header: 'Start Time',
+      accessorKey: 'start_time',
+      // cell:info=>moment.unix(info.getvalue())
+    },
+    {
+      header: 'End Time',
+      accessorKey: 'end_time',
+    },
 
 
-    // {
-    //   header: 'Start Location',
-    //   accessorKey: 'start_coordinates',
-    // },
-    // {
-    //   header: 'End Location',
-    //   accessorKey: 'end_coordinates',
-    // },
+
+
+
+
+
+    {
+      header: 'Start Longtitude',
+      accessorKey: 'start_long',
+      // cell:info=>moment.unix(info.getvalue())
+    },
+    {
+      header: 'Start Latitude',
+      accessorKey: 'start_lat',
+    },
+    {
+      header: 'End Longtitude',
+      accessorKey: 'end_long',
+      // cell:info=>moment.unix(info.getvalue())
+    },
+    {
+      header: 'Start Latitude',
+      accessorKey: 'end_lat',
+    },
+
+
+
+
+
+
   ]
 
   const table = useReactTable(
@@ -108,16 +101,16 @@ const TableView = () => {
 
   return (
     <>
-      <div className="w3-container  border border-black p-5 ml-20 mr-14 mt-5 " >
+      <div className="w3-container  border border-black p-5 ml-20 mr-14 mt-5 xsm:ml-2 xsm:mr-2" >
         <div className="flex items-center ">
           <div className="text-center pr-72" >
             <input type="text" value={filtering} className="border border-black p-5 mb-5   rounded-full" onChange={e => setFiltering(e.target.value)} placeholder="Search In All Results..." />
           </div>
           <div className="text-center " >
-            <p className="text-center font-bold text-3xl" >List View Of IOT Devices</p>
+            <p className="text-center font-bold text-3xl flex gap-5" >List View Of IOT Devices <GiKickScooter size={40} color="green" /> </p>
           </div>
         </div>
-        <table className="w3-table-all " >
+        <table className="w3-table-all xsm:bg-red-300 " >
 
           {table.getHeaderGroups().map(headerGroup => (
             <tr key={headerGroup.id}  >

@@ -7,9 +7,9 @@ const Navbar=()=>{
     return(
         <>
             <div className="flex items-center justify-between bg-black " >
-                <div className="h-1/2 w-1/6">
+                <div className="h-1/2 w-1/6 xsm:h-1/2 xsm:w-1/2">
                     <p>
-                        <img src={LOGO} alt="" className="h-1/2 w-1/2" />
+                        <img src={LOGO} alt="" className="h-1/2 w-1/2  " />
                     </p>
                 </div>
                 <div className="flex gap-5 mr-5" >

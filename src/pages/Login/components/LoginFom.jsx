@@ -1,6 +1,6 @@
 import { useFormik } from "formik";
 import { Link, To } from "react-router-dom";
-
+import { FaMapMarkerAlt } from "react-icons/fa";
 
 const LoginForm = ({ userDetails, setUserDetails }) => {
 
@@ -30,7 +30,10 @@ const LoginForm = ({ userDetails, setUserDetails }) => {
             <div className="flex h-[100vh] justify-center items-center  " >
                 <div className="flex flex-col gap-10 " >
                     <div>
-                        <p className="text-7xl font-bold text-center " > Welcome  </p>
+                        <div className="flex justify-center items-center gap-5" >
+                            <p className="text-7xl font-bold text-center flex" > Welcome   </p>
+                            <FaMapMarkerAlt color="red" size={50} />
+                        </div>
                         <p className="text-center text-4xl leading-relaxed text-green-400" >Our Device Provising Dashboard</p>
                     </div>
 
