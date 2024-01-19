@@ -1,10 +1,12 @@
 import { Link, To } from "react-router-dom"
+import BGMAP from "../../assets/bgmap1.jpeg"
 const ViewOption=()=>{
     return(
         <>
-            <div className="flex h-[100vh] flex-col justify-center items-center gap-5" >
+           <div style={{backgroundImage:`url(${BGMAP})`}}>
+           <div className="flex h-[100vh] flex-col justify-center items-center gap-5"  >
                 <div>
-                    <p className="text-5xl font-bold" >Choose Your View Options</p>
+                    <p className="text-5xl font-bold text-white " >Choose Your View Options</p>
                 </div>
                 <div className="flex flex-col gap-5" > 
                     <Link to="/ListView" >
@@ -15,6 +17,7 @@ const ViewOption=()=>{
                     </Link>
                 </div>
             </div>
+           </div>
         </>
     )
 }

@@ -30,8 +30,10 @@ const LoginForm = ({ userDetails, setUserDetails }) => {
             <div className="flex h-[100vh] justify-center items-center  " >
                 <div className="flex flex-col gap-10 " >
                     <div>
-                        <p className="text-7xl font-bold" > Welcome  </p>
+                        <p className="text-7xl font-bold text-center " > Welcome  </p>
+                        <p className="text-center text-4xl leading-relaxed text-green-400" >Our Device Provising Dashboard</p>
                     </div>
+
                     <div>
                         <form onSubmit={(e) => formik.handleSubmit(e)} className="flex flex-col gap-5 items-center"  >
                             <div>

@@ -1,6 +1,6 @@
 import { useState } from "react"
 import LoginForm from "./components/LoginFom"
-
+import BGMAP from "../../assets/BackgroundMap.jpg"
 
 
 const LoginPage = () => {
@@ -12,8 +12,10 @@ const LoginPage = () => {
 
 
 
-            <LoginForm userDetails={userDetails} setUserDetails={setUserDetails} />
+            <div style={{backgroundImage:`url(${BGMAP})`}} >
+                <LoginForm userDetails={userDetails} setUserDetails={setUserDetails} />
 
+            </div>
 
 
         </>
